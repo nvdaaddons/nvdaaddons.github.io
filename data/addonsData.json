@@ -631,6 +631,7 @@
 		"reportPasswords": {
 			"summary": "Report Passwords",
 			"author": "Noelia Ruiz Mart\u00ednez <nrm1977@gmail.com>",
+			"addonKey": "rp",
 			"minimumNVDAVersion": [
 				2019,
 				3,
@@ -661,16 +662,8 @@
 			"summary": "Resource Monitor",
 			"author": "Alex Hall <mehgcap@gmail.com>, Joseph Lee <joseph.lee22590@gmail.com>, beqa gozalishvili <beqaprogger@gmail.com>, Tuukka Ojala <tuukka.ojala@gmail.com>, Ethin Probst <harlydavidsen@gmail.com> and other NVDA contributors",
 			"addonKey": "rm",
-			"minimumNVDAVersion": [
-				2020,
-				4,
-				0
-			],
-			"lastTestedNVDAVersion": [
-				2021,
-				1,
-				0
-			],
+			"minimumNVDAVersion": [2020, 4, 0],
+			"lastTestedNVDAVersion": [2019, 3, 0],
 			"minimumWindowsVersion": "6.1.7601"
 		},
 		"reviewCursorCopier": {
@@ -857,6 +850,7 @@
 		"tipOfTheDay": {
 			"summary": "Tip Of The Day",
 			"author": "derek Riemer <driemer.riemer@gmail.com>",
+			"addonKey": "tod",
 			"minimumNVDAVersion": [
 				2018,
 				3,
@@ -938,6 +932,7 @@
 		"updateChannel": {
 			"summary": "Update channel selector",
 			"author": "Jose Manuel Delicado <jm.delicado@nvda.es>",
+			"addonKey": "updchannelselect",
 			"minimumNVDAVersion": [
 				2019,
 				1,
