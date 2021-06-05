@@ -626,6 +626,7 @@
 		"proxy": {
 			"summary": "Proxy support",
 			"author": "Jose Manuel Delicado <jm.delicado@nvda.es>",
+			"addonKey": "nvdaproxy",
 			"minimumNVDAVersion": [
 				2019,
 				3,
