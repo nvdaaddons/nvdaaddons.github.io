@@ -737,22 +737,6 @@
 				0
 			]
 		},
-		"screenCurtain": {
-			"summary": "Screen Curtain",
-			"author": "Babbage B.V., Joseph Lee <joseph.lee22590@gmail.com>",
-			"addonKey": "nvda7857",
-			"minimumNVDAVersion": [
-				2018,
-				2,
-				0
-			],
-			"lastTestedNVDAVersion": [
-				2019,
-				2,
-				0
-			],
-			"minimumWindowsVersion": "6.2.9200"
-		},
 		"SentenceNav": {
 			"summary": "SentenceNav",
 			"author": "Tony Malykh <anton.malykh@gmail.com>",
