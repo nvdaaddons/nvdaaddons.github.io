@@ -809,20 +809,6 @@
 				0
 			]
 		},
-		"TeamTalk": {
-			"summary": "TeamTalk Classic Fixes",
-			"author": "Doug Lee with initial work by Tyler Spivey and others",
-			"minimumNVDAVersion": [
-				2018,
-				3,
-				0
-			],
-			"lastTestedNVDAVersion": [
-				2019,
-				3,
-				0
-			]
-		},
 		"textInformation": {
 			"summary": "text information",
 			"author": "Carter Temm <crtbraille@gmail.com>",
