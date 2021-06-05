@@ -1280,5 +1280,71 @@
 				0
 			]
 		}
+	},
+	"legacy": {
+		"bitChe": {
+			"summary": "Bit Che",
+			"author": "Alberto Zanella <lapostadialberto@gmail.com>, Alberto Buffolino <a.buffolino@gmail.com>, other contributors",
+			"legacyReason": "Declared by author (app is not maintained)",
+			"addonKey": "bc",
+			"minimumNVDAVersion": [
+				2017,
+				3,
+				0
+			],
+			"lastTestedNVDAVersion": [
+				2019,
+				3,
+				0
+			]
+		},
+		"enhancedAria": {
+			"summary": "Enhanced Aria",
+			"author": "Jose Manuel Delicado <jm.delicado@nvda.es>",
+			"legacyReason": "Features included in NVDA 2019.3",
+			"addonKey": "earia",
+			"minimumNVDAVersion": [
+				2017,
+				4,
+				0
+			],
+			"lastTestedNVDAVersion": [
+				2019,
+				2,
+				0
+			]
+		},
+		"screenCurtain": {
+			"summary": "Screen Curtain",
+			"author": "Babbage B.V., Joseph Lee <joseph.lee22590@gmail.com>",
+			"legacyReason": "Features included in NVDA 2019.3",
+			"addonKey": "nvda7857",
+			"minimumNVDAVersion": [
+				2018,
+				2,
+				0
+			],
+			"lastTestedNVDAVersion": [
+				2019,
+				2,
+				0
+			]
+		},
+		"teamViewer": {
+			"summary": "TeamViewer",
+			"author": "Noelia Ruiz Mart\u00ednez <nrm1977@gmail.com>, Mesar Hameed <mhameed@src.gnome.org>",
+			"legacyReason": "Declared by author (app no longer used by developer)",
+			"addonKey": "tv",
+			"minimumNVDAVersion": [
+				0,
+				0,
+				0
+			],
+			"lastTestedNVDAVersion": [
+				0,
+				0,
+				0
+			]
+		}
 	}
 }
