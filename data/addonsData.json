@@ -60,21 +60,6 @@
 				0
 			]
 		},
-		"AudioThemes3D": {
-			"summary": "Audio Themes",
-			"author": "Musharraf Omer<ibnomer2011@hotmail.com>",
-			"addonKey": "ath",
-			"minimumNVDAVersion": [
-				2018,
-				3,
-				0
-			],
-			"lastTestedNVDAVersion": [
-				2019,
-				3,
-				0
-			]
-		},
 		"bitChe": {
 			"summary": "Bit Che",
 			"author": "Alberto Zanella <lapostadialberto@gmail.com>, Alberto Buffolino <a.buffolino@gmail.com>, other contributors",
