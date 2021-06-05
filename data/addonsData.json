@@ -11,76 +11,36 @@
 			"summary": "Add-ons documentation",
 			"author": "Rui Fontes <rui.fontes@tiflotecnia.com>, Zougane, Remy and Abdel",
 			"addonKey": "addonshelp",
-			"minimumNVDAVersion": [
-				2017,
-				3,
-				0
-			],
-			"lastTestedNVDAVersion": [
-				2019,
-				3,
-				0
-			]
+			"minimumNVDAVersion": [2017, 3, 0],
+			"lastTestedNVDAVersion": [2019, 3, 0]
 		},
 		"addonUpdater": {
 			"summary": "Add-on Updater",
 			"author": "Joseph Lee <joseph.lee22590@gmail.com>",
 			"addonKey": "nvda3208",
-			"minimumNVDAVersion": [
-				2020,
-				4,
-				0
-			],
-			"lastTestedNVDAVersion": [
-				2021,
-				1,
-				0
-			]
+			"minimumNVDAVersion": [2020, 4, 0],
+			"lastTestedNVDAVersion": [2021, 1, 0]
 		},
 		"audioChart": {
 			"summary": "AudioChart",
 			"author": "Tony Malykh <anton.malykh@gmail.com>",
 			"addonKey": "audiochart",
-			"minimumNVDAVersion": [
-				2019,
-				2,
-				0
-			],
-			"lastTestedNVDAVersion": [
-				2019,
-				3,
-				0
-			]
+			"minimumNVDAVersion": [2019, 2, 0],
+			"lastTestedNVDAVersion": [2019, 3, 0]
 		},
 		"AudioThemes3D": {
 			"summary": "Audio Themes",
 			"author": "Musharraf Omer<ibnomer2011@hotmail.com>",
 			"addonKey": "ath",
-			"minimumNVDAVersion": [
-				2018,
-				3,
-				0
-			],
-			"lastTestedNVDAVersion": [
-				2019,
-				3,
-				0
-			]
+			"minimumNVDAVersion": [2018, 3, 0],
+			"lastTestedNVDAVersion": [2019, 3, 0]
 		},
 		"bitChe": {
 			"summary": "Bit Che",
 			"author": "Alberto Zanella <lapostadialberto@gmail.com>, Alberto Buffolino <a.buffolino@gmail.com>, other contributors",
 			"addonKey": "bc",
-			"minimumNVDAVersion": [
-				2017,
-				3,
-				0
-			],
-			"lastTestedNVDAVersion": [
-				2019,
-				3,
-				0
-			]
+			"minimumNVDAVersion": [2017, 3, 0],
+			"lastTestedNVDAVersion": [2019, 3, 0]
 		},
 		"bluetoothaudio": {
 			"summary": "BluetoothAudio",
@@ -970,16 +930,9 @@
 		"trainingKeyboardCommands": {
 			"summary": "Training Keyboards Commands",
 			"author": "ibrahim hamadeh <ibra.hamadeh@hotmail.com>",
-			"minimumNVDAVersion": [
-				2019,
-				3,
-				0
-			],
-			"lastTestedNVDAVersion": [
-				2021,
-				1,
-				0
-			]
+			"addonKey": "trainingkbdcmd",
+			"minimumNVDAVersion": [2019, 3, 0],
+			"lastTestedNVDAVersion": [2021, 1, 0]
 		},
 		"unicodeBrailleInput": {
 			"summary": "Unicode Braille Input",
