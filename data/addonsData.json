@@ -565,6 +565,20 @@
 				0
 			]
 		},
+		"newfon": {
+			"summary": "Newfon speech synthesizer",
+			"author": "Tyler Spivey <tspivey@pcdesk.net>",
+			"minimumNVDAVersion": [
+				0,
+				0,
+				0
+			],
+			"lastTestedNVDAVersion": [
+				2021,
+				1,
+				0
+			]
+		},
 		"noBeepsSpeechMode": {
 			"summary": "NoBeepsSpeechMode",
 			"author": "Alberto Buffolino <a.buffolino@gmail.com>",
@@ -640,6 +654,20 @@
 				0
 			]
 		},
+		"ocr": {
+			"summary": "OCR",
+			"author": "NV Access Limited <info@nvaccess.org>, \u0141ukasz Golonka <lukasz.golonka@mailbox.org>",
+			"minimumNVDAVersion": [
+				2019,
+				3,
+				0
+			],
+			"lastTestedNVDAVersion": [
+				2021,
+				3,
+				0
+			]
+		},
 		"outlookExtended": {
 			"summary": "Outlook Extended",
 			"author": "Cyrille Bougot <cyrille.bougot2@laposte.net>, Ralf Kefferpuetz <ralf.kefferpuetz@elra-consulting.de>",
@@ -651,6 +679,20 @@
 			],
 			"lastTestedNVDAVersion": [
 				2020,
+				3,
+				0
+			]
+		},
+		"pcKbBrl": {
+			"summary": "PC Keyboard Braille Input",
+			"author": "NV Access Limited, Noelia Ruiz Mart\u00ednez <nrm1977@gmail.com>",
+			"minimumNVDAVersion": [
+				2019,
+				3,
+				0
+			],
+			"lastTestedNVDAVersion": [
+				2021,
 				3,
 				0
 			]
