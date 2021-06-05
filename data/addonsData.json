@@ -624,6 +624,20 @@
 				0
 			]
 		},
+		"nvSpeechPlayer": {
+			"summary": "nvSpeechPlayer",
+			"author": "NV Access Limited <info@nvaccess.org>",
+			"minimumNVDAVersion": [
+				2019,
+				3,
+				0
+			],
+			"lastTestedNVDAVersion": [
+				2021,
+				3,
+				1
+			]
+		},
 		"objLocTones": {
 			"summary": "Object Location Tones",
 			"author": "Joseph Lee <joseph.lee22590@gmail.com>",
@@ -757,6 +771,20 @@
 				0
 			]
 		},
+		"readFeeds": {
+			"summary": "Read Feeds",
+			"author": "Noelia Ruiz Mart\u00ednez <nrm1977@gmail.com>, Mesar Hameed <mhameed@src.gnome.org>",
+			"minimumNVDAVersion": [
+				2019,
+				3,
+				0
+			],
+			"lastTestedNVDAVersion": [
+				2021,
+				3,
+				0
+			]
+		},
 		"remote": {
 			"summary": "Remote Support",
 			"author": "Tyler Spivey <tspivey@pcdesk.net>, Christopher Toth <q@q-continuum.net>",
@@ -875,6 +903,20 @@
 			"lastTestedNVDAVersion": [
 				2019,
 				3,
+				0
+			]
+		},
+		"speechHistory": {
+			"summary": "Speech history review and copying",
+			"author": "Tyler Spivey, James Scholes",
+			"minimumNVDAVersion": [
+				2019,
+				3,
+				0
+			],
+			"lastTestedNVDAVersion": [
+				2021,
+				1,
 				0
 			]
 		},
