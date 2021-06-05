@@ -312,6 +312,20 @@
 				0
 			]
 		},
+		"dual_voice": {
+			"summary": "Dual Voice for NVDA",
+			"author": "Seyed Mahmood Taghavi-Shahri",
+			"minimumNVDAVersion": [
+				2018,
+				3,
+				0
+			],
+			"lastTestedNVDAVersion": [
+				2019,
+				3,
+				0
+			]
+		},
 		"easyTableNavigator": {
 			"summary": "Easy Table Navigator",
 			"author": "Joseph Lee <joseph.lee22590@gmail.com>",
@@ -474,6 +488,34 @@
 			],
 			"lastTestedNVDAVersion": [
 				2019,
+				3,
+				0
+			]
+		},
+		"instantTranslate": {
+			"summary": "Instant Translate",
+			"author": "Alexy Sadovoy aka Lex <lex@progger.su>, ruslan <ru2020slan@yandex.ru>, beqa <beqaprogger@gmail.com>, Mesar Hameed <mhameed@src.gnome.org>, Alberto Buffolino <a.buffolino@gmail.com>, and other NVDA contributors",
+			"minimumNVDAVersion": [
+				2018,
+				3,
+				0
+			],
+			"lastTestedNVDAVersion": [
+				2021,
+				3,
+				0
+			]
+		},
+		"killNVDA": {
+			"summary": "Kill NVDA",
+			"author": "Tyler Spivey <tspivey@pcdesk.net>",
+			"minimumNVDAVersion": [
+				2019,
+				2,
+				0
+			],
+			"lastTestedNVDAVersion": [
+				2021,
 				3,
 				0
 			]
