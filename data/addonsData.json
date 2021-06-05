@@ -60,21 +60,6 @@
 				0
 			]
 		},
-		"bitChe": {
-			"summary": "Bit Che",
-			"author": "Alberto Zanella <lapostadialberto@gmail.com>, Alberto Buffolino <a.buffolino@gmail.com>, other contributors",
-			"addonKey": "bc",
-			"minimumNVDAVersion": [
-				2017,
-				3,
-				0
-			],
-			"lastTestedNVDAVersion": [
-				2019,
-				3,
-				0
-			]
-		},
 		"bluetoothaudio": {
 			"summary": "BluetoothAudio",
 			"author": "Tony Malykh <anton.malykh@gmail.com>",
