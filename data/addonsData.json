@@ -60,6 +60,20 @@
 				0
 			]
 		},
+		"beepKeyboard": {
+			"summary": "Beep keyboard",
+			"author": "David CM <dhf360@gmail.com>",
+			"minimumNVDAVersion": [
+				2018,
+				3,
+				0
+			],
+			"lastTestedNVDAVersion": [
+				2021,
+				3,
+				0
+			]
+		},
 		"bluetoothaudio": {
 			"summary": "BluetoothAudio",
 			"author": "Tony Malykh <anton.malykh@gmail.com>",
@@ -111,6 +125,20 @@
 			"addonKey": "chari",
 			"minimumNVDAVersion": [
 				2017,
+				3,
+				0
+			],
+			"lastTestedNVDAVersion": [
+				2021,
+				1,
+				0
+			]
+		},
+		"checkGestures": {
+			"summary": "Check Input Gestures",
+			"author": "Oleksandr Gryshchenko <grisov.nvaccess@mailnull.com>",
+			"minimumNVDAVersion": [
+				2019,
 				3,
 				0
 			],
@@ -206,6 +234,20 @@
 			],
 			"lastTestedNVDAVersion": [
 				2021,
+				1,
+				0
+			]
+		},
+		"crashHero": {
+			"summary": "Crash Hero",
+			"author": "Derek Riemer <driemer.riemer@gmail.com>",
+			"minimumNVDAVersion": [
+				2018,
+				3,
+				0
+			],
+			"lastTestedNVDAVersion": [
+				2019,
 				1,
 				0
 			]
