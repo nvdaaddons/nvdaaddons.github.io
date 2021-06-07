@@ -63,6 +63,7 @@
 		"beepKeyboard": {
 			"summary": "Beep keyboard",
 			"author": "David CM <dhf360@gmail.com>",
+			"addonKey": "beepkeyboard",
 			"minimumNVDAVersion": [
 				2018,
 				3,
@@ -152,6 +153,7 @@
 		"checkGestures": {
 			"summary": "Check Input Gestures",
 			"author": "Oleksandr Gryshchenko <grisov.nvaccess@mailnull.com>",
+			"addonKey": "cig",
 			"minimumNVDAVersion": [
 				2019,
 				3,
@@ -510,6 +512,7 @@
 		"instantTranslate": {
 			"summary": "Instant Translate",
 			"author": "Alexy Sadovoy aka Lex <lex@progger.su>, ruslan <ru2020slan@yandex.ru>, beqa <beqaprogger@gmail.com>, Mesar Hameed <mhameed@src.gnome.org>, Alberto Buffolino <a.buffolino@gmail.com>, and other NVDA contributors",
+			"addonKey": "it",
 			"minimumNVDAVersion": [
 				2018,
 				3,
@@ -524,6 +527,7 @@
 		"killNVDA": {
 			"summary": "Kill NVDA",
 			"author": "Tyler Spivey <tspivey@pcdesk.net>",
+			"addonKey": "killnvda",
 			"minimumNVDAVersion": [
 				2019,
 				2,
@@ -642,6 +646,7 @@
 		"nvSpeechPlayer": {
 			"summary": "nvSpeechPlayer",
 			"author": "NV Access Limited <info@nvaccess.org>",
+			"addonKey": "nvsp",
 			"minimumNVDAVersion": [
 				2019,
 				3,
@@ -686,6 +691,7 @@
 		"ocr": {
 			"summary": "OCR",
 			"author": "NV Access Limited <info@nvaccess.org>, \u0141ukasz Golonka <lukasz.golonka@mailbox.org>",
+			"addonKey": "ocr",
 			"minimumNVDAVersion": [
 				2019,
 				3,
@@ -715,6 +721,7 @@
 		"pcKbBrl": {
 			"summary": "PC Keyboard Braille Input",
 			"author": "NV Access Limited, Noelia Ruiz Mart\u00ednez <nrm1977@gmail.com>",
+			"addonKey": "pckbbrl",
 			"minimumNVDAVersion": [
 				2019,
 				3,
@@ -789,6 +796,7 @@
 		"readFeeds": {
 			"summary": "Read Feeds",
 			"author": "Noelia Ruiz Mart\u00ednez <nrm1977@gmail.com>, Mesar Hameed <mhameed@src.gnome.org>",
+			"addonKey": "rf",
 			"minimumNVDAVersion": [
 				2019,
 				3,
@@ -924,6 +932,7 @@
 		"speechHistory": {
 			"summary": "Speech history review and copying",
 			"author": "Tyler Spivey, James Scholes",
+			"addonKey": "sps",
 			"minimumNVDAVersion": [
 				2019,
 				3,
