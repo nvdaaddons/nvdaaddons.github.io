@@ -1153,6 +1153,21 @@
 				0
 			]
 		},
+		"unmute": {
+			"summary": "Unmute Windows audio",
+			"author": "Oleksandr Gryshchenko <grisov.nvaccess@mailnull.com>",
+			"addonKey": "unmute",
+			"minimumNVDAVersion": [
+				2019,
+				3,
+				0
+			],
+			"lastTestedNVDAVersion": [
+				2021,
+				1,
+				0
+			]
+		},
 		"updateChannel": {
 			"summary": "Update channel selector",
 			"author": "Jose Manuel Delicado <jm.delicado@nvda.es>",
