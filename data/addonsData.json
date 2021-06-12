@@ -258,6 +258,7 @@
 		"crashHero": {
 			"summary": "Crash Hero",
 			"author": "Derek Riemer <driemer.riemer@gmail.com>",
+			"addonKey": "crh",
 			"minimumNVDAVersion": [
 				2018,
 				3,
