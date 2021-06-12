@@ -330,20 +330,6 @@
 				0
 			]
 		},
-		"dual_voice": {
-			"summary": "Dual Voice for NVDA",
-			"author": "Seyed Mahmood Taghavi-Shahri",
-			"minimumNVDAVersion": [
-				2018,
-				3,
-				0
-			],
-			"lastTestedNVDAVersion": [
-				2019,
-				3,
-				0
-			]
-		},
 		"easyTableNavigator": {
 			"summary": "Easy Table Navigator",
 			"author": "Joseph Lee <joseph.lee22590@gmail.com>",
@@ -582,20 +568,6 @@
 			"lastTestedNVDAVersion": [
 				2020,
 				3,
-				0
-			]
-		},
-		"newfon": {
-			"summary": "Newfon speech synthesizer",
-			"author": "Tyler Spivey <tspivey@pcdesk.net>",
-			"minimumNVDAVersion": [
-				0,
-				0,
-				0
-			],
-			"lastTestedNVDAVersion": [
-				2021,
-				1,
 				0
 			]
 		},
@@ -996,20 +968,6 @@
 			"addonKey": "st",
 			"minimumNVDAVersion": [
 				2019,
-				3,
-				0
-			],
-			"lastTestedNVDAVersion": [
-				2019,
-				3,
-				0
-			]
-		},
-		"TeamTalk": {
-			"summary": "TeamTalk Classic Fixes",
-			"author": "Doug Lee with initial work by Tyler Spivey and others",
-			"minimumNVDAVersion": [
-				2018,
 				3,
 				0
 			],
