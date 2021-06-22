@@ -297,7 +297,22 @@
 			],
 			"lastTestedNVDAVersion": [
 				2021,
+				1,
+				0
+			]
+		},
+		"devHelper": {
+			"summary": "Dev Helper",
+			"author": "Luke Davis <newanswertech@gmail.com>",
+			"addonKey": "debughelper",
+			"minimumNVDAVersion": [
+				2017,
 				3,
+				0
+			],
+			"lastTestedNVDAVersion": [
+				2021,
+				1,
 				0
 			]
 		},
@@ -1215,7 +1230,7 @@
 			],
 			"lastTestedNVDAVersion": [
 				2021,
-				4,
+				1,
 				0
 			]
 		},
