@@ -26,8 +26,8 @@
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2019,
-				3,
+				2021,
+				1,
 				0
 			]
 		},
@@ -56,8 +56,8 @@
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2019,
-				3,
+				2021,
+				1,
 				0
 			]
 		},
@@ -1206,7 +1206,7 @@
 		"winMag": {
 			"summary": "Windows Magnifier",
 			"author": "Cyrille Bougot <cyrille.bougot2@laposte.net>",
-			"addonKey": "chari",
+			"addonKey": "winmag",
 			"minimumNVDAVersion": [
 				2018,
 				3,
