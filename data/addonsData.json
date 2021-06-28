@@ -1203,6 +1203,21 @@
 				0
 			]
 		},
+		"winMag": {
+			"summary": "Windows Magnifier",
+			"author": "Cyrille Bougot <cyrille.bougot2@laposte.net>",
+			"addonKey": "chari",
+			"minimumNVDAVersion": [
+				2018,
+				3,
+				0
+			],
+			"lastTestedNVDAVersion": [
+				2021,
+				1,
+				0
+			]
+		},
 		"wintenApps": {
 			"summary": "Windows 10 App Essentials",
 			"author": "Joseph Lee <joseph.lee22590@gmail.com>, Derek Riemer <driemer.riemer@gmail.com> and others",
