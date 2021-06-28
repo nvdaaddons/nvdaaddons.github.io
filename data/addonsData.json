@@ -6,7 +6,7 @@
 			"author": "Tseng Woody <tsengwoody.tw@gmail.com>",
 			"addonKey": "access8math",
 			"minimumNVDAVersion": [
-				2017,
+				2019,
 				3,
 				0
 			],
@@ -86,8 +86,8 @@
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2019,
-				3,
+				2021,
+				1,
 				0
 			]
 		},
@@ -116,8 +116,8 @@
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2019,
-				3,
+				2021,
+				1,
 				0
 			]
 		},
@@ -237,7 +237,7 @@
 			],
 			"lastTestedNVDAVersion": [
 				2021,
-				3,
+				1,
 				0
 			]
 		},
@@ -492,8 +492,8 @@
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2019,
-				3,
+				2021,
+				1,
 				0
 			]
 		},
@@ -718,7 +718,7 @@
 			],
 			"lastTestedNVDAVersion": [
 				2021,
-				3,
+				1,
 				0
 			]
 		},
@@ -733,7 +733,7 @@
 			],
 			"lastTestedNVDAVersion": [
 				2021,
-				3,
+				1,
 				0
 			]
 		},
@@ -742,8 +742,8 @@
 			"author": "Noelia <nrm1977@gmail.com>, Chris <llajta2012@gmail.com>",
 			"addonKey": "pm",
 			"minimumNVDAVersion": [
-				2019,
-				3,
+				2021,
+				1,
 				0
 			],
 			"lastTestedNVDAVersion": [
@@ -823,7 +823,7 @@
 			],
 			"lastTestedNVDAVersion": [
 				2021,
-				3,
+				1,
 				0
 			]
 		},
@@ -898,8 +898,8 @@
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2019,
-				3,
+				2021,
+				1,
 				0
 			]
 		},
@@ -1079,7 +1079,7 @@
 			],
 			"lastTestedNVDAVersion": [
 				2021,
-				3,
+				1,
 				0
 			]
 		},
@@ -1168,8 +1168,8 @@
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2019,
-				3,
+				2021,
+				1,
 				0
 			]
 		},
@@ -1275,7 +1275,7 @@
 			],
 			"lastTestedNVDAVersion": [
 				2021,
-				3,
+				1,
 				0
 			]
 		},
