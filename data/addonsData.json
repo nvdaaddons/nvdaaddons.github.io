@@ -331,6 +331,21 @@
 				0
 			]
 		},
+		"directLink": {
+			"summary": "Direct Link",
+			"author": "Fawaz Abdul rahman <fawaz.ar94@gmail.com>",
+			"addonKey": "directlink",
+			"minimumNVDAVersion": [
+				2019,
+				3,
+				0
+			],
+			"lastTestedNVDAVersion": [
+				2021,
+				1,
+				0
+			]
+		},
 		"dropbox": {
 			"summary": "Dropbox",
 			"author": "Patrick ZAJDA <patrick@zajda.fr>, Filaos and other contributors",
@@ -868,8 +883,8 @@
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2019,
-				3,
+				2021,
+				1,
 				0
 			]
 		},
