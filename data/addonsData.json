@@ -477,8 +477,8 @@
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2019,
-				3,
+				2021,
+				1,
 				0
 			]
 		},
@@ -943,8 +943,8 @@
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2019,
-				3,
+				2021,
+				1,
 				0
 			]
 		},
@@ -1138,8 +1138,8 @@
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2019,
-				3,
+				2021,
+				1,
 				0
 			]
 		},
@@ -1299,13 +1299,13 @@
 			"author": "Mohammad Suliman <mohmad.s93@gmail.com>, Eilana Benish <benish.ilana@gmail.com>",
 			"addonKey": "zoom",
 			"minimumNVDAVersion": [
-				0,
-				0,
+				2018,
+				4,
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2020,
-				2,
+				2021,
+				1,
 				0
 			]
 		}
