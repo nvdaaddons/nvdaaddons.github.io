@@ -437,6 +437,21 @@
 			],
 			"minimumWindowsVersion": "6.3.9600"
 		},
+		"evtTracker": {
+			"summary": "Event Tracker",
+			"author": "Joseph Lee <joseph.lee22590@gmail.com>",
+			"addonKey": "evttracker",
+			"minimumNVDAVersion": [
+				2021,
+				1,
+				0
+			],
+			"lastTestedNVDAVersion": [
+				2021,
+				1,
+				0
+			]
+		},
 		"extendedWinamp": {
 			"summary": "An extended appModule for Winamp music player",
 			"author": "Hrvoje Katic <hrvojekatic@gmail.com>, Beqa Gozalishvili <beqaprogger@gmail.com>, NVDA-addon-team",
