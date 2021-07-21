@@ -453,7 +453,7 @@
 			]
 		},
 		"extendedWinamp": {
-			"summary": "An extended appModule for Winamp music player",
+			"summary": "Extended Winamp",
 			"author": "Hrvoje Katic <hrvojekatic@gmail.com>, Beqa Gozalishvili <beqaprogger@gmail.com>, NVDA-addon-team",
 			"addonKey": "ew",
 			"minimumNVDAVersion": [
