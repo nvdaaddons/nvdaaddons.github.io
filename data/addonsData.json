@@ -176,8 +176,8 @@
 				1
 			],
 			"lastTestedNVDAVersion": [
-				2019,
-				3,
+				2021,
+				1,
 				0
 			]
 		},
@@ -221,8 +221,8 @@
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2019,
-				4,
+				2021,
+				1,
 				0
 			]
 		},
@@ -622,13 +622,13 @@
 			"author": "Alberto Buffolino <a.buffolino@gmail.com>",
 			"addonKey": "nb",
 			"minimumNVDAVersion": [
-				2017,
-				3,
+				2021,
+				1,
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2019,
-				3,
+				2021,
+				1,
 				0
 			]
 		},
