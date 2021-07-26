@@ -434,8 +434,7 @@
 				2021,
 				1,
 				0
-			],
-			"minimumWindowsVersion": "6.3.9600"
+			]
 		},
 		"evtTracker": {
 			"summary": "Event Tracker",
@@ -885,8 +884,7 @@
 				2021,
 				1,
 				0
-			],
-			"minimumWindowsVersion": "6.1.7601"
+			]
 		},
 		"reviewCursorCopier": {
 			"summary": "Review Cursor Copier",
@@ -1261,8 +1259,7 @@
 				2021,
 				1,
 				0
-			],
-			"minimumWindowsVersion": "10.0.19042"
+			]
 		},
 		"winWizard": {
 			"summary": "Win Wizard",
