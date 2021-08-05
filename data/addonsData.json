@@ -916,6 +916,36 @@
 				0
 			]
 		},
+		"sayProductNameAndVersion": {
+			"summary": "Say Product Name and Version",
+			"author": "Patrick ZAJDA <patrick@zajda.fr>",
+			"addonKey": "spnav",
+			"minimumNVDAVersion": [
+				2017,
+				3,
+				0
+			],
+			"lastTestedNVDAVersion": [
+				2021,
+				1,
+				0
+			]
+		},
+		"searchWith": {
+			"summary": "Search With",
+			"author": "ibrahim hamadeh <ibra.hamadeh@hotmail.com>",
+			"addonKey": "searchwith",
+			"minimumNVDAVersion": [
+				2019,
+				3,
+				0
+			],
+			"lastTestedNVDAVersion": [
+				2021,
+				1,
+				0
+			]
+		},
 		"SentenceNav": {
 			"summary": "SentenceNav",
 			"author": "Tony Malykh <anton.malykh@gmail.com>",
