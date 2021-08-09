@@ -511,6 +511,21 @@
 				0
 			]
 		},
+		"ignoreBlanksIndentationReporting": {
+			"summary": "Ignore blanks Indentation Reporting",
+			"author": "Samuel Kacer <samuel.kacer@gmail.com>",
+			"addonKey": "ibir",
+			"minimumNVDAVersion": [
+				2021,
+				1,
+				0
+			],
+			"lastTestedNVDAVersion": [
+				2021,
+				1,
+				0
+			]
+		},
 		"IndentNav": {
 			"summary": "IndentNav",
 			"author": "Tony Malykh <anton.malykh@gmail.com>",
