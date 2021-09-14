@@ -216,7 +216,7 @@
 			"author": "Hrvoje Katic <hrvojekatic@gmail.com>, Abdel <abdelkrim.bensaid@gmail.com>",
 			"addonKey": "cac",
 			"minimumNVDAVersion": [
-				2014,
+				2019,
 				3,
 				0
 			],
@@ -281,8 +281,8 @@
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2019,
-				4,
+				2021,
+				2,
 				0
 			]
 		},
@@ -626,8 +626,8 @@
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2020,
-				3,
+				2021,
+				2,
 				0
 			]
 		},
@@ -926,8 +926,8 @@
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2019,
-				4,
+				2021,
+				2,
 				0
 			]
 		},
