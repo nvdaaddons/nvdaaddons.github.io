@@ -226,6 +226,21 @@
 				0
 			]
 		},
+		"columnsReview": {
+			"summary": "Columns Review",
+			"author": "Alberto Buffolino <a.buffolino@gmail.com>, Łukasz Golonka <lukasz.golonka@mailbox.org>, other contributors",
+			"addonKey": "cr",
+			"minimumNVDAVersion": [
+				2017,
+				3,
+				0
+			],
+			"lastTestedNVDAVersion": [
+				2021,
+				1,
+				0
+			]
+		},
 		"consoleToolkit": {
 			"summary": "Console Toolkit",
 			"author": "Tony Malykh <anton.malykh@gmail.com>",
