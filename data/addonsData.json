@@ -261,13 +261,13 @@
 			"author": "Joseph Lee <joseph.lee22590@gmail.com>",
 			"addonKey": "cua",
 			"minimumNVDAVersion": [
-				2019,
-				3,
+				2021,
+				2,
 				0
 			],
 			"lastTestedNVDAVersion": [
 				2021,
-				1,
+				2,
 				0
 			]
 		},
@@ -441,13 +441,13 @@
 			"author": "Joseph Lee <joseph.lee22590@gmail.com>",
 			"addonKey": "ets",
 			"minimumNVDAVersion": [
-				2020,
-				3,
+				2021,
+				2,
 				0
 			],
 			"lastTestedNVDAVersion": [
 				2021,
-				1,
+				2,
 				0
 			]
 		},
@@ -457,12 +457,12 @@
 			"addonKey": "evttracker",
 			"minimumNVDAVersion": [
 				2021,
-				1,
+				2,
 				0
 			],
 			"lastTestedNVDAVersion": [
 				2021,
-				1,
+				2,
 				0
 			]
 		},
@@ -471,13 +471,13 @@
 			"author": "Hrvoje Katic <hrvojekatic@gmail.com>, Beqa Gozalishvili <beqaprogger@gmail.com>, NVDA-addon-team",
 			"addonKey": "ew",
 			"minimumNVDAVersion": [
-				2019,
-				2,
+				2020,
+				1,
 				0
 			],
 			"lastTestedNVDAVersion": [
 				2021,
-				1,
+				2,
 				0
 			]
 		},
@@ -507,7 +507,7 @@
 			],
 			"lastTestedNVDAVersion": [
 				2021,
-				1,
+				2,
 				0
 			]
 		},
@@ -516,13 +516,13 @@
 			"author": "Joseph Lee <joseph.lee22590@gmail.com>, David Parduhn <xkill85@gmx.net>, Mesar Hameed <mhameed@src.gnome.org>",
 			"addonKey": "gwv",
 			"minimumNVDAVersion": [
-				2019,
-				3,
+				2021,
+				2,
 				0
 			],
 			"lastTestedNVDAVersion": [
 				2021,
-				1,
+				2,
 				0
 			]
 		},
@@ -906,13 +906,13 @@
 			"author": "Alex Hall <mehgcap@gmail.com>, Joseph Lee <joseph.lee22590@gmail.com>, beqa gozalishvili <beqaprogger@gmail.com>, Tuukka Ojala <tuukka.ojala@gmail.com>, Ethin Probst <harlydavidsen@gmail.com> and other NVDA contributors",
 			"addonKey": "rm",
 			"minimumNVDAVersion": [
-				2020,
-				4,
+				2021,
+				1,
 				0
 			],
 			"lastTestedNVDAVersion": [
 				2021,
-				1,
+				2,
 				0
 			]
 		},
@@ -1026,13 +1026,13 @@
 			"author": "Geoff Shang, Joseph Lee and other contributors",
 			"addonKey": "spl",
 			"minimumNVDAVersion": [
-				2020,
-				4,
+				2021,
+				2,
 				0
 			],
 			"lastTestedNVDAVersion": [
 				2021,
-				1,
+				2,
 				0
 			]
 		},
@@ -1307,12 +1307,12 @@
 			]
 		},
 		"wintenApps": {
-			"summary": "Windows 10 App Essentials",
+			"summary": "Windows App Essentials",
 			"author": "Joseph Lee <joseph.lee22590@gmail.com>, Derek Riemer <driemer.riemer@gmail.com> and others",
 			"addonKey": "w10",
 			"minimumNVDAVersion": [
-				2020,
-				4,
+				2021,
+				2,
 				0
 			],
 			"lastTestedNVDAVersion": [
