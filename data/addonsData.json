@@ -841,6 +841,21 @@
 				0
 			]
 		},
+		"quickNotetaker": {
+			"summary": "Quick Notetaker",
+			"author": "Eilana Benish <benish.ilana@gmail.com, Mohammad Suliman <mohmad.s93@gmail.com>",
+			"addonKey": "quickNotetaker",
+			"minimumNVDAVersion": [
+				2019,
+				3,
+				0
+			],
+			"lastTestedNVDAVersion": [
+				2021,
+				2,
+				0
+			]
+		},
 		"readFeeds": {
 			"summary": "Read Feeds",
 			"author": "Noelia Ruiz Mart\u00ednez <nrm1977@gmail.com>, Mesar Hameed <mhameed@src.gnome.org>",
