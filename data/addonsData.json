@@ -37,7 +37,7 @@
 			"addonKey": "nvda3208",
 			"minimumNVDAVersion": [
 				2021,
-				1,
+				2,
 				0
 			],
 			"lastTestedNVDAVersion": [
@@ -922,7 +922,7 @@
 			"addonKey": "rm",
 			"minimumNVDAVersion": [
 				2021,
-				1,
+				2,
 				0
 			],
 			"lastTestedNVDAVersion": [
