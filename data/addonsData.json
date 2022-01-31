@@ -1006,6 +1006,21 @@
 				0
 			]
 		},
+		"soundSplitter": {
+			"summary": "Sound Splitter",
+			"author": "Joseph Lee and other contributors",
+			"addonKey": "soundsplitter",
+			"minimumNVDAVersion": [
+				2019,
+				3,
+				0
+			],
+			"lastTestedNVDAVersion": [
+				2021,
+				3,
+				0
+			]
+		},
 		"speakPasswords": {
 			"summary": "Speak Passwords",
 			"author": "Tyler Spivey <tspivey@pcdesk.net>",
