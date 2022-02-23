@@ -442,7 +442,7 @@
 			"addonKey": "ets",
 			"minimumNVDAVersion": [
 				2021,
-				2,
+				3,
 				0
 			],
 			"lastTestedNVDAVersion": [
@@ -517,7 +517,7 @@
 			"addonKey": "gwv",
 			"minimumNVDAVersion": [
 				2021,
-				2,
+				3,
 				0
 			],
 			"lastTestedNVDAVersion": [
@@ -922,7 +922,7 @@
 			"addonKey": "rm",
 			"minimumNVDAVersion": [
 				2021,
-				2,
+				3,
 				0
 			],
 			"lastTestedNVDAVersion": [
@@ -1011,7 +1011,7 @@
 			"author": "Joseph Lee and other contributors",
 			"addonKey": "soundsplitter",
 			"minimumNVDAVersion": [
-				2019,
+				2021,
 				3,
 				0
 			],
@@ -1057,7 +1057,7 @@
 			"addonKey": "spl",
 			"minimumNVDAVersion": [
 				2021,
-				2,
+				3,
 				0
 			],
 			"lastTestedNVDAVersion": [
@@ -1342,7 +1342,7 @@
 			"addonKey": "w10",
 			"minimumNVDAVersion": [
 				2021,
-				2,
+				3,
 				0
 			],
 			"lastTestedNVDAVersion": [
