@@ -386,7 +386,7 @@
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2021,
+				2022,
 				1,
 				0
 			]
@@ -671,7 +671,7 @@
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2021,
+				2022,
 				1,
 				0
 			]
@@ -1161,12 +1161,12 @@
 			"author": "Munawar Bijani",
 			"addonKey": "tz",
 			"minimumNVDAVersion": [
-				2019,
-				2,
+				2021,
+				1,
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2020,
+				2022,
 				1,
 				0
 			]
