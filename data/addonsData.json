@@ -46,6 +46,21 @@
 				0
 			]
 		},
+		"applicationDictionary": {
+			"summary": "Application Dictionary",
+			"author": "Rui Fontes <rui.fontes@tiflotecnia.com> and Ricardo Leonarczyk <ricardo.leonarczyk95@gmail.com> and colaboration of Cyrille Bougot",
+			"addonKey": "appdict",
+			"minimumNVDAVersion": [
+				2019,
+				3,
+				0
+			],
+			"lastTestedNVDAVersion": [
+				2022,
+				1,
+				0
+			]
+		},
 		"audioChart": {
 			"summary": "AudioChart",
 			"author": "Tony Malykh <anton.malykh@gmail.com>",
