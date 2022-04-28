@@ -1476,6 +1476,21 @@
 				0
 			]
 		},
+		"screenshots": {
+			"summary": "Screenshots Wizard",
+			"author": "Javi Dominguez <fjavids@gmail.com>",
+			"addonKey": "scrsw",
+			"minimumNVDAVersion": [
+				2021,
+				2,
+				0
+			],
+			"lastTestedNVDAVersion": [
+				2022,
+				1,
+				0
+			]
+		},
 		"teamViewer": {
 			"summary": "TeamViewer",
 			"author": "Noelia Ruiz Mart\u00ednez <nrm1977@gmail.com>, Mesar Hameed <mhameed@src.gnome.org>",
