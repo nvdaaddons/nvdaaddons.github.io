@@ -216,13 +216,13 @@
 			"author": "Damien Sykes-Lindley <damien@dcpendleton.plus.com>",
 			"addonKey": "cs",
 			"minimumNVDAVersion": [
-				2018,
+				2019,
 				3,
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2019,
-				3,
+				2022,
+				1,
 				0
 			]
 		},
