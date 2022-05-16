@@ -301,6 +301,21 @@
 				0
 			]
 		},
+		"cursorLocator": {
+			"summary": "Cursor Locator",
+			"author": "Noelia Ruiz Martínez <nrm1977@gmail.com>, Sergio Gómez Codina <gomezcodinasergio@gmail.com>",
+			"addonKey": "cursorLocator",
+			"minimumNVDAVersion": [
+				2022,
+				1,
+				0
+			],
+			"lastTestedNVDAVersion": [
+				2022,
+				1,
+				0
+			]
+		},
 		"dayOfTheWeek": {
 			"summary": "Day of the week",
 			"author": "Abdel <abdelkrim.bensaid@gmail.com>, Noelia <nrm1977@gmail.com>",
