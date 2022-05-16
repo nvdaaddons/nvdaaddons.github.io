@@ -11,7 +11,7 @@
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2021,
+				2022,
 				1,
 				0
 			]
@@ -201,12 +201,12 @@
 			"author": "Noelia <nrm1977@gmail.com>, Abdel <abdelkrim.bensaid@gmail.com",
 			"addonKey": "ccd",
 			"minimumNVDAVersion": [
-				2019,
-				3,
+				2022,
+				1,
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2021,
+				2022,
 				1,
 				0
 			]
@@ -273,16 +273,16 @@
 		},
 		"controlUsageAssistant": {
 			"summary": "Control Usage Assistant",
-			"author": "Joseph Lee <joseph.lee22590@gmail.com>",
+			"author": "Joseph Lee <joseph.lee22590@gmail.com>, Noelia Ruiz Martínez <nrm1977@gmail.com>",
 			"addonKey": "cua",
 			"minimumNVDAVersion": [
-				2021,
-				2,
+				2022,
+				1,
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2021,
-				3,
+				2022,
+				1,
 				0
 			]
 		},
@@ -411,12 +411,12 @@
 			"author": "Chris Leo <llajta2012@gmail.com>, Noelia Ruiz Mart\u00ednez <nrm1977@gmail.com>, Mesar Hameed <mesar.hameed@gmail.com>, Francisco Javier Estrada Mart\u00ednez <Fjestrad@hotmail.com>",
 			"addonKey": "emo",
 			"minimumNVDAVersion": [
-				2019,
-				3,
+				2022,
+				1,
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2021,
+				2022,
 				1,
 				0
 			]
@@ -426,12 +426,12 @@
 			"author": "Noelia <nrm1977@gmail.com>, Chris <llajta2012@gmail.com>, Alberto <a.buffolino@gmail.com>",
 			"addonKey": "em",
 			"minimumNVDAVersion": [
-				2019,
-				3,
+				2022,
+				1,
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2021,
+				2022,
 				1,
 				0
 			]
@@ -513,16 +513,16 @@
 		},
 		"goldenCursor": {
 			"summary": "Golden Cursor",
-			"author": "Salah Atair <atair1978@gmail.com>, Wafeeq Taher, Joseph Lee <joseph.lee22590@gmail.com>, Abdel <abdelkrim.bensaid@gmail.com>",
+			"author": "Salah Atair <atair1978@gmail.com>, Wafeeq Taher, Joseph Lee <joseph.lee22590@gmail.com>, Abdel <abdelkrim.bensaid@gmail.com>, NVDA spanish community <contacto@nvda.es>",
 			"addonKey": "gc",
 			"minimumNVDAVersion": [
-				2019,
+				2021,
 				3,
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2021,
-				2,
+				2022,
+				1,
 				0
 			]
 		},
@@ -816,12 +816,12 @@
 			"author": "Noelia <nrm1977@gmail.com>, Chris <llajta2012@gmail.com>",
 			"addonKey": "pm",
 			"minimumNVDAVersion": [
-				2021,
+				2022,
 				1,
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2021,
+				2022,
 				1,
 				0
 			]
@@ -831,12 +831,12 @@
 			"author": "Jose Manuel Delicado <jm.delicado@nvda.es>",
 			"addonKey": "nvdaproxy",
 			"minimumNVDAVersion": [
-				2019,
+				2021,
 				3,
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2021,
+				2022,
 				1,
 				0
 			]
@@ -1281,12 +1281,12 @@
 			"author": "Jose Manuel Delicado <jm.delicado@nvda.es>",
 			"addonKey": "updchannelselect",
 			"minimumNVDAVersion": [
-				2019,
-				1,
+				2021,
+				3,
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2021,
+				2022,
 				1,
 				0
 			]
