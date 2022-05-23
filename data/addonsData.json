@@ -176,7 +176,7 @@
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2021,
+				2022,
 				1,
 				0
 			]
@@ -487,12 +487,12 @@
 			"addonKey": "evttracker",
 			"minimumNVDAVersion": [
 				2021,
-				2,
+				3,
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2021,
-				2,
+				2022,
+				1,
 				0
 			]
 		},
@@ -521,7 +521,7 @@
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2020,
+				2022,
 				1,
 				0
 			]
@@ -741,13 +741,13 @@
 			"author": "Joseph Lee <joseph.lee22590@gmail.com>",
 			"addonKey": "objLoc",
 			"minimumNVDAVersion": [
-				2019,
+				2021,
 				3,
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2020,
-				4,
+				2022,
+				1,
 				0
 			]
 		},
@@ -756,12 +756,12 @@
 			"author": "Joseph Lee <joseph.lee22590@gmail.com>",
 			"addonKey": "objPad",
 			"minimumNVDAVersion": [
-				2020,
-				1,
+				2021,
+				3,
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2021,
+				2022,
 				1,
 				0
 			]
@@ -881,8 +881,8 @@
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2021,
-				2,
+				2022,
+				1,
 				0
 			]
 		},
@@ -971,7 +971,7 @@
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2021,
+				2022,
 				1,
 				0
 			]
@@ -1271,7 +1271,7 @@
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2021,
+				2022,
 				1,
 				0
 			]
@@ -1436,7 +1436,7 @@
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2021,
+				2022,
 				1,
 				0
 			]
