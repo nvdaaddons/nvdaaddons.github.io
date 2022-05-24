@@ -1,5 +1,5 @@
 [Community NVDA Add-ons website](https://addons.nvda-project.org)
-[NVDA Add-ons mailing list](http://www.freelists.org/list/nvda-addons)
+[NVDA Add-ons mailing list](https://groups.io/g/nvda-addons)
 
 Here you'll find useful tools and documentation to develop and contribute NVDA add-ons.
 
