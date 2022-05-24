@@ -1081,6 +1081,21 @@
 				0
 			]
 		},
+		"speechLogger": {
+			"summary": "Speech Logger",
+			"author": "Luke Davis <XLTechie@newanswertech.com>, James Scholes",
+			"addonKey": "splogger",
+			"minimumNVDAVersion": [
+				2019,
+				3,
+				1
+			],
+			"lastTestedNVDAVersion": [
+				2022,
+				1,
+				0
+			]
+		},
 		"stationPlaylist": {
 			"summary": "StationPlaylist",
 			"author": "Geoff Shang, Joseph Lee and other contributors",
