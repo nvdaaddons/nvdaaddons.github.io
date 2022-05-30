@@ -1339,7 +1339,7 @@
 		"VLC": {
 			"summary": "VLC Media Player",
 			"author": "Javi Dominguez <fjavids@gmail.com>",
-			"addonKey": "vlc-18",
+			"addonKey": "vlc",
 			"minimumNVDAVersion": [
 				2018,
 				1,
