@@ -86,8 +86,8 @@
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2020,
-				2,
+				2022,
+				1,
 				0
 			]
 		},
@@ -131,7 +131,7 @@
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2021,
+				2022,
 				1,
 				0
 			]
@@ -371,8 +371,8 @@
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2021,
-				2,
+				2022,
+				1,
 				0
 			]
 		},
@@ -506,8 +506,8 @@
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2021,
-				2,
+				2022,
+				1,
 				0
 			]
 		},
@@ -636,14 +636,14 @@
 			"author": "Alberto Zanella, Ivan Novegil",
 			"addonKey": "lambda",
 			"minimumNVDAVersion": [
-				2017,
-				3,
+				2021,
+				1,
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2019,
-				3,
-				1
+				2022,
+				1,
+				0
 			]
 		},
 		"Mozilla": {
@@ -696,7 +696,7 @@
 			"author": "Derek Riemer <driemer.riemer@gmail.com>, Tuukka Ojala <tuukka.ojala@gmail.com>",
 			"addonKey": "NotepadPlusPlus",
 			"minimumNVDAVersion": [
-				2018,
+				2022,
 				1,
 				0
 			],
@@ -1076,7 +1076,7 @@
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2021,
+				2022,
 				1,
 				0
 			]
@@ -1136,9 +1136,9 @@
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2021,
-				3,
-				1
+				2022,
+				1,
+				0
 			]
 		},
 		"systrayList": {
