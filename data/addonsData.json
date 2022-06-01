@@ -1,5 +1,7 @@
 {
-	"general": {},
+	"general": {
+		"serial": "1"
+	},
 	"active": {
 		"Access8Math": {
 			"summary": "Access8Math",
