@@ -648,6 +648,21 @@
 				0
 			]
 		},
+		"MathCAT": {
+			"summary": "MathCAT: speech and braille from MathML",
+			"author": "Neil Soiffer <soiffer@alum.mit.edu>",
+			"addonKey": "mathcat",
+			"minimumNVDAVersion": [
+				2018,
+				1,
+				0
+			],
+			"lastTestedNVDAVersion": [
+				2022,
+				1,
+				0
+			]
+		},
 		"Mozilla": {
 			"summary": "Mozilla Apps Enhancements",
 			"author": "Javi Dominguez <fjavids@gmail.com>",
