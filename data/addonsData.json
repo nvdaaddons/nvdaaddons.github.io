@@ -1,6 +1,6 @@
 {
 	"general": {
-		"serial": "20220603"
+		"serial": "20220604"
 	},
 	"active": {
 		"Access8Math": {
@@ -85,6 +85,21 @@
 			"minimumNVDAVersion": [
 				2018,
 				3,
+				0
+			],
+			"lastTestedNVDAVersion": [
+				2022,
+				1,
+				0
+			]
+		},
+		"Becky": {
+			"summary": "Becky accessibilit enhancements",
+			"author": "Lukasz Golonka <lukasz.golonka@mailbox.org>",
+			"addonKey": "becky",
+			"minimumNVDAVersion": [
+				2019,
+				2,
 				0
 			],
 			"lastTestedNVDAVersion": [
