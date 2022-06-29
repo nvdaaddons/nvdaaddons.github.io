@@ -1340,7 +1340,7 @@
 		},
 		"updateChannel": {
 			"summary": "Update channel selector",
-			"author": "Jose Manuel Delicado <jm.delicado@nvda.es>",
+			"author": "Jose Manuel Delicado <jm.delicado@nvda.es>, Javi Dominguez <fjavids@gmail.com>",
 			"addonKey": "updchannelselect",
 			"minimumNVDAVersion": [
 				2021,
