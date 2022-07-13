@@ -1,6 +1,6 @@
 {
 	"general": {
-		"serial": "20220701"
+		"serial": "20220702"
 	},
 	"active": {
 		"Access8Math": {
@@ -705,6 +705,21 @@
 			"lastTestedNVDAVersion": [
 				2022,
 				1,
+				0
+			]
+		},
+		"newfon": {
+			"summary": "Newfon Speech synthesizer",
+			"author": "Sergey Shishmintsev, Alexy Sadovoi, Sergey A.K.A. Electrik, Kvark and other developers",
+			"addonKey": "newfon",
+			"minimumNVDAVersion": [
+				2019,
+				2,
+				0
+			],
+			"lastTestedNVDAVersion": [
+				2022,
+				2,
 				0
 			]
 		},
