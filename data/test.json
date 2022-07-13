@@ -1,6 +1,6 @@
 {
 	"general": {
-		"serial": "20220702"
+		"serial": "20220703"
 	},
 	"active": {
 		"Access8Math": {
@@ -464,7 +464,7 @@
 			],
 			"lastTestedNVDAVersion": [
 				2022,
-				1,
+				2,
 				0
 			]
 		},
@@ -854,7 +854,7 @@
 			],
 			"lastTestedNVDAVersion": [
 				2022,
-				1,
+				2,
 				0
 			]
 		},
@@ -884,7 +884,7 @@
 			],
 			"lastTestedNVDAVersion": [
 				2022,
-				1,
+				2,
 				0
 			]
 		},
@@ -974,7 +974,7 @@
 			],
 			"lastTestedNVDAVersion": [
 				2022,
-				1,
+				2,
 				0
 			]
 		},
@@ -989,7 +989,7 @@
 			],
 			"lastTestedNVDAVersion": [
 				2022,
-				1,
+				2,
 				0
 			]
 		},
