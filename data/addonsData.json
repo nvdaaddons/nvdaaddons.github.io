@@ -1,6 +1,6 @@
 {
 	"general": {
-		"serial": "20220704"
+		"serial": "20220705"
 	},
 	"active": {
 		"Access8Math": {
@@ -700,6 +700,21 @@
 			"minimumNVDAVersion": [
 				2016,
 				4,
+				0
+			],
+			"lastTestedNVDAVersion": [
+				2022,
+				1,
+				0
+			]
+		},
+		"nvdaDevTestToolbox": {
+			"summary": "NVDA Dev & Test Toolbox",
+			"author": "Cyrille Bougot <cyrille.bougot2@laposte.net>",
+			"addonKey": "ndtt",
+			"minimumNVDAVersion": [
+				2019,
+				2,
 				0
 			],
 			"lastTestedNVDAVersion": [
