@@ -46,7 +46,12 @@
 				2022,
 				2,
 				0
-			]
+			],
+			"updateChannels": {
+				"nvda3208": {
+					"url": "https://github.com/josephsl/addonUpdater/releases/download/22.08/addonUpdater-22.08.nvda-addon"
+				}
+			}
 		},
 		"applicationDictionary": {
 			"summary": "Application Dictionary",
