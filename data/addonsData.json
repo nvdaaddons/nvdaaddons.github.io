@@ -1477,7 +1477,12 @@
 				2022,
 				2,
 				0
-			]
+			],
+			"updateChannels": {
+				"w10": {
+					"url": "https://github.com/josephsl/wintenApps/releases/download/22.09/wintenApps-22.09.1.nvda-addon"
+				}
+			}
 		},
 		"winWizard": {
 			"summary": "Win Wizard",
