@@ -474,6 +474,21 @@
 				0
 			]
 		},
+		"enhancedAnnotations": {
+			"summary": "Enhanced Annotations",
+			"author": "George Kerscher <kerscher@montana.com>, Noelia Ruiz Martínez <nrm1977@gmail.com>",
+			"addonKey": "enhancedannotations",
+			"minimumNVDAVersion": [
+				2022,
+				1,
+				0
+			],
+			"lastTestedNVDAVersion": [
+				2022,
+				2,
+				0
+			]
+		},
 		"enhancedAria": {
 			"summary": "Enhanced Aria",
 			"author": "Jose Manuel Delicado <jm.delicado@nvda.es>",
