@@ -1481,6 +1481,9 @@
 			"updateChannels": {
 				"w10": {
 					"url": "https://github.com/josephsl/wintenApps/releases/download/22.09/wintenApps-22.09.1.nvda-addon"
+				},
+				"w10-dev": {
+					"url": "https://www.josephsl.net/files/nvdaaddons/getupdate.php?file=w10-dev"
 				}
 			}
 		},
