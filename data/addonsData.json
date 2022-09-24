@@ -532,7 +532,12 @@
 				2022,
 				3,
 				0
-			]
+			],
+			"updateChannels": {
+				"nvda3208": {
+					"url": "https://github.com/josephsl/evtTracker/releases/download/22.10/evtTracker-22.10.nvda-addon"
+				}
+			}
 		},
 		"extendedWinamp": {
 			"summary": "Extended Winamp",
