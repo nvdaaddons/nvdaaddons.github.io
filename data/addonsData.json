@@ -864,6 +864,21 @@
 				0
 			]
 		},
+		"officeDesk": {
+			"summary": "Office Desk",
+			"author": "Joseph Lee <joseph.lee22590@gmail.com> and others",
+			"addonKey": "officedesk",
+			"minimumNVDAVersion": [
+				2022,
+				2,
+				0
+			],
+			"lastTestedNVDAVersion": [
+				2022,
+				3,
+				0
+			]
+		},
 		"outlookExtended": {
 			"summary": "Outlook Extended",
 			"author": "Cyrille Bougot <cyrille.bougot2@laposte.net>, Ralf Kefferpuetz <ralf.kefferpuetz@elra-consulting.de>",
