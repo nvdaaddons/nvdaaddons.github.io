@@ -1,6 +1,6 @@
 {
 	"general": {
-		"serial": "20220705"
+		"serial": "20220924"
 	},
 	"active": {
 		"Access8Math": {
@@ -920,9 +920,17 @@
 			],
 			"lastTestedNVDAVersion": [
 				2022,
-				2,
+				3,
 				0
-			]
+			],
+			"updateChannels": {
+				"pm": {
+					"url": "https://github.com/nvdaes/placeMarkers/releases/download/23.0/placeMarkers-23.0.nvda-addon"
+				},
+				"pm-dev": {
+					"url": "https://github.com/nvdaes/placeMarkers/releases/download/20.0-dev/placeMarkers-20.0-dev.nvda-addon"
+				}
+			}
 		},
 		"proxy": {
 			"summary": "Proxy support",
