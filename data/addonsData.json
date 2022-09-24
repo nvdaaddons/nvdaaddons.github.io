@@ -534,7 +534,7 @@
 				0
 			],
 			"updateChannels": {
-				"nvda3208": {
+				"evttracker": {
 					"url": "https://github.com/josephsl/evtTracker/releases/download/22.10/evtTracker-22.10.nvda-addon"
 				}
 			}
