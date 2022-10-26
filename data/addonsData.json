@@ -39,12 +39,12 @@
 			"addonKey": "nvda3208",
 			"minimumNVDAVersion": [
 				2022,
-				2,
+				3,
 				0
 			],
 			"lastTestedNVDAVersion": [
 				2022,
-				2,
+				4,
 				0
 			],
 			"updateChannels": {
@@ -304,7 +304,7 @@
 			],
 			"lastTestedNVDAVersion": [
 				2022,
-				2,
+				4,
 				0
 			]
 		},
@@ -334,7 +334,7 @@
 			],
 			"lastTestedNVDAVersion": [
 				2022,
-				1,
+				4,
 				0
 			]
 		},
@@ -1007,7 +1007,7 @@
 			],
 			"lastTestedNVDAVersion": [
 				2022,
-				2,
+				4,
 				0
 			]
 		},
@@ -1052,7 +1052,7 @@
 			],
 			"lastTestedNVDAVersion": [
 				2022,
-				2,
+				4,
 				0
 			]
 		},
@@ -1496,13 +1496,13 @@
 			"author": "Joseph Lee <joseph.lee22590@gmail.com>, Derek Riemer <driemer.riemer@gmail.com> and others",
 			"addonKey": "w10",
 			"minimumNVDAVersion": [
-				2021,
-				3,
+				2022,
+				2,
 				0
 			],
 			"lastTestedNVDAVersion": [
 				2022,
-				2,
+				4,
 				0
 			],
 			"updateChannels": {
