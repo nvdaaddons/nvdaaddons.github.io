@@ -49,7 +49,7 @@
 			],
 			"updateChannels": {
 				"nvda3208": {
-					"url": "https://github.com/josephsl/addonUpdater/releases/download/22.10/addonUpdater-22.10.nvda-addon"
+					"url": "https://github.com/josephsl/addonUpdater/releases/download/22.11/addonUpdater-22.11.nvda-addon"
 				}
 			}
 		},
@@ -941,15 +941,7 @@
 				2022,
 				3,
 				0
-			],
-			"updateChannels": {
-				"pm": {
-					"url": "https://github.com/nvdaes/placeMarkers/releases/download/23.0/placeMarkers-23.0.nvda-addon"
-				},
-				"pm-dev": {
-					"url": "https://github.com/nvdaes/placeMarkers/releases/download/20.0-dev/placeMarkers-20.0-dev.nvda-addon"
-				}
-			}
+			]
 		},
 		"proxy": {
 			"summary": "Proxy support",
@@ -1507,7 +1499,7 @@
 			],
 			"updateChannels": {
 				"w10": {
-					"url": "https://github.com/josephsl/wintenApps/releases/download/22.10/wintenApps-22.10.nvda-addon"
+					"url": "https://github.com/josephsl/wintenApps/releases/download/22.11/wintenApps-22.11.nvda-addon"
 				},
 				"w10-dev": {
 					"url": "https://www.josephsl.net/files/nvdaaddons/getupdate.php?file=w10-dev"
