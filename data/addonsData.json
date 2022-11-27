@@ -49,7 +49,7 @@
 			],
 			"updateChannels": {
 				"nvda3208": {
-					"url": "https://github.com/josephsl/addonUpdater/releases/download/22.11/addonUpdater-22.11.nvda-addon"
+					"url": "https://github.com/josephsl/addonUpdater/releases/download/22.11/addonUpdater-22.12.nvda-addon"
 				}
 			}
 		},
@@ -1499,7 +1499,7 @@
 			],
 			"updateChannels": {
 				"w10": {
-					"url": "https://github.com/josephsl/wintenApps/releases/download/22.11/wintenApps-22.11.nvda-addon"
+					"url": "https://github.com/josephsl/wintenApps/releases/download/22.12/wintenApps-22.12.nvda-addon"
 				},
 				"w10-dev": {
 					"url": "https://www.josephsl.net/files/nvdaaddons/getupdate.php?file=w10-dev"
