@@ -514,9 +514,14 @@
 			],
 			"lastTestedNVDAVersion": [
 				2022,
-				1,
+				4,
 				0
-			]
+			],
+			"updateChannels": {
+				"ets": {
+					"url": "https://github.com/josephsl/enhancedTouchGestures/releases/download/22.03/enhancedTouchGestures-22.12.nvda-addon"
+				}
+			}
 		},
 		"evtTracker": {
 			"summary": "Event Tracker",
@@ -594,9 +599,14 @@
 			],
 			"lastTestedNVDAVersion": [
 				2022,
-				1,
+				4,
 				0
-			]
+			],
+			"updateChannels": {
+				"gwv": {
+					"url": "https://github.com/josephsl/goldWave/releases/download/22.03/goldwave-22.12.nvda-addon"
+				}
+			}
 		},
 		"ignoreBlanksIndentationReporting": {
 			"summary": "Ignore blanks Indentation Reporting",
@@ -1074,9 +1084,14 @@
 			],
 			"lastTestedNVDAVersion": [
 				2022,
-				1,
+				4,
 				0
-			]
+			],
+			"updateChannels": {
+				"rm": {
+					"url": "https://github.com/josephsl/resourceMonitor/releases/download/22.03/resourceMonitor-22.12.nvda-addon"
+				}
+			}
 		},
 		"reviewCursorCopier": {
 			"summary": "Review Cursor Copier",
@@ -1164,9 +1179,14 @@
 			],
 			"lastTestedNVDAVersion": [
 				2022,
-				1,
+				4,
 				0
-			]
+			],
+			"updateChannels": {
+				"soundsplitter": {
+					"url": "https://github.com/josephsl/soundSplitter/releases/download/22.03/soundSplitter-22.12.nvda-addon"
+				}
+			}
 		},
 		"speakPasswords": {
 			"summary": "Speak Passwords",
@@ -1224,9 +1244,14 @@
 			],
 			"lastTestedNVDAVersion": [
 				2022,
-				1,
+				4,
 				0
-			]
+			],
+			"updateChannels": {
+				"spl": {
+					"url": "https://github.com/josephsl/stationPlaylist/releases/download/22.03/stationPlaylist-22.12.nvda-addon"
+				}
+			}
 		},
 		"switchSynth": {
 			"summary": "Switch synth",
