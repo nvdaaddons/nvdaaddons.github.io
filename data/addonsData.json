@@ -910,7 +910,7 @@
 			"minimumWindowsVersion": "10.0.10240",
 			"updateChannels": {
 				"officedesk": {
-					"url": "https://github.com/josephsl/officeDesk/releases/download/22.12/officeDesk-22.12.nvda-addon"
+					"url": "https://github.com/josephsl/officeDesk/releases/download/23.01/officeDesk-23.01.nvda-addon"
 				}
 			}
 		},
@@ -1549,7 +1549,7 @@
 			"minimumWindowsVersion": "10.0.19044",
 			"updateChannels": {
 				"w10": {
-					"url": "https://github.com/josephsl/wintenApps/releases/download/22.12/wintenApps-22.12.nvda-addon"
+					"url": "https://github.com/josephsl/wintenApps/releases/download/23.01/wintenApps-23.01.nvda-addon"
 				},
 				"w10-dev": {
 					"url": "https://www.josephsl.net/files/nvdaaddons/getupdate.php?file=w10-dev"
