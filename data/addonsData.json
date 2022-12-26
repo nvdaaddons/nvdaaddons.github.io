@@ -517,6 +517,7 @@
 				4,
 				0
 			],
+			"minimumWindowsVersion": "6.3.9600",
 			"updateChannels": {
 				"ets": {
 					"url": "https://github.com/josephsl/enhancedTouchGestures/releases/download/22.03/enhancedTouchGestures-22.12.nvda-addon"
@@ -537,6 +538,7 @@
 				4,
 				0
 			],
+			"minimumWindowsVersion": "6.1.7601",
 			"updateChannels": {
 				"evttracker": {
 					"url": "https://github.com/josephsl/evtTracker/releases/download/22.12/evtTracker-22.12.nvda-addon"
@@ -602,6 +604,7 @@
 				4,
 				0
 			],
+			"minimumWindowsVersion": "6.1.7601",
 			"updateChannels": {
 				"gwv": {
 					"url": "https://github.com/josephsl/goldWave/releases/download/22.03/goldwave-22.12.nvda-addon"
@@ -847,6 +850,7 @@
 				4,
 				0
 			],
+			"minimumWindowsVersion": "6.1.7601",
 			"updateChannels": {
 				"objLoc": {
 					"url": "https://github.com/josephsl/objLocationTones/releases/download/22.06/objLocTones-22.12.nvda-addon"
@@ -867,6 +871,7 @@
 				4,
 				0
 			],
+			"minimumWindowsVersion": "6.1.7601",
 			"updateChannels": {
 				"objPad": {
 					"url": "https://github.com/josephsl/objPad/releases/download/22.06/objPad-22.12.nvda-addon"
@@ -902,6 +907,7 @@
 				4,
 				0
 			],
+			"minimumWindowsVersion": "10.0.10240",
 			"updateChannels": {
 				"officedesk": {
 					"url": "https://github.com/josephsl/officeDesk/releases/download/22.12/officeDesk-22.12.nvda-addon"
@@ -1087,6 +1093,7 @@
 				4,
 				0
 			],
+			"minimumWindowsVersion": "6.1.7601",
 			"updateChannels": {
 				"rm": {
 					"url": "https://github.com/josephsl/resourceMonitor/releases/download/22.03/resourceMonitor-22.12.nvda-addon"
@@ -1182,6 +1189,7 @@
 				4,
 				0
 			],
+			"minimumWindowsVersion": "6.1.7601",
 			"updateChannels": {
 				"soundsplitter": {
 					"url": "https://github.com/josephsl/soundSplitter/releases/download/22.03/soundSplitter-22.12.nvda-addon"
@@ -1247,6 +1255,7 @@
 				4,
 				0
 			],
+			"minimumWindowsVersion": "6.1.7601",
 			"updateChannels": {
 				"spl": {
 					"url": "https://github.com/josephsl/stationPlaylist/releases/download/22.03/stationPlaylist-22.12.nvda-addon"
@@ -1537,6 +1546,7 @@
 				4,
 				0
 			],
+			"minimumWindowsVersion": "10.0.19044",
 			"updateChannels": {
 				"w10": {
 					"url": "https://github.com/josephsl/wintenApps/releases/download/22.12/wintenApps-22.12.nvda-addon"
