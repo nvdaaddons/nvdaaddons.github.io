@@ -1192,7 +1192,7 @@
 			"minimumWindowsVersion": "6.1.7601",
 			"updateChannels": {
 				"soundsplitter": {
-					"url": "https://github.com/josephsl/soundSplitter/releases/download/22.03/soundSplitter-22.12.nvda-addon"
+					"url": "https://github.com/josephsl/soundSplitter/releases/download/23.01/soundSplitter-23.01.nvda-addon"
 				}
 			}
 		},
