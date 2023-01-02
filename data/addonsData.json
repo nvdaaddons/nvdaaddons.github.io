@@ -874,7 +874,7 @@
 			"minimumWindowsVersion": "6.1.7601",
 			"updateChannels": {
 				"objPad": {
-					"url": "https://github.com/josephsl/objPad/releases/download/22.06/objPad-22.12.nvda-addon"
+					"url": "https://github.com/josephsl/objPad/releases/download/23.01/objPad-23.01.nvda-addon"
 				}
 			}
 		},
