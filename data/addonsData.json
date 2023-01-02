@@ -541,7 +541,7 @@
 			"minimumWindowsVersion": "6.1.7601",
 			"updateChannels": {
 				"evttracker": {
-					"url": "https://github.com/josephsl/evtTracker/releases/download/22.12/evtTracker-22.12.nvda-addon"
+					"url": "https://github.com/josephsl/evtTracker/releases/download/23.01/evtTracker-23.01.nvda-addon"
 				}
 			}
 		},
@@ -1096,7 +1096,7 @@
 			"minimumWindowsVersion": "6.1.7601",
 			"updateChannels": {
 				"rm": {
-					"url": "https://github.com/josephsl/resourceMonitor/releases/download/22.03/resourceMonitor-22.12.nvda-addon"
+					"url": "https://github.com/josephsl/resourceMonitor/releases/download/23.01/resourceMonitor-23.01.nvda-addon"
 				}
 			}
 		},
