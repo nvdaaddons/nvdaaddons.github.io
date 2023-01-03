@@ -853,7 +853,7 @@
 			"minimumWindowsVersion": "6.1.7601",
 			"updateChannels": {
 				"objLoc": {
-					"url": "https://github.com/josephsl/objLocationTones/releases/download/22.06/objLocTones-22.12.nvda-addon"
+					"url": "https://github.com/josephsl/objLocationTones/releases/download/23.01/objLocTones-23.01.nvda-addon"
 				}
 			}
 		},
@@ -1258,7 +1258,7 @@
 			"minimumWindowsVersion": "6.1.7601",
 			"updateChannels": {
 				"spl": {
-					"url": "https://github.com/josephsl/stationPlaylist/releases/download/22.03/stationPlaylist-22.12.nvda-addon"
+					"url": "https://github.com/josephsl/stationPlaylist/releases/download/23.01/stationPlaylist-23.01.nvda-addon"
 				}
 			}
 		},
