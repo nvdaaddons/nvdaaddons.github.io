@@ -520,7 +520,7 @@
 			"minimumWindowsVersion": "6.3.9600",
 			"updateChannels": {
 				"ets": {
-					"url": "https://github.com/josephsl/enhancedTouchGestures/releases/download/22.03/enhancedTouchGestures-22.12.nvda-addon"
+					"url": "https://github.com/josephsl/enhancedTouchGestures/releases/download/23.01/enhancedTouchGestures-23.01.nvda-addon"
 				}
 			}
 		},
@@ -607,7 +607,7 @@
 			"minimumWindowsVersion": "6.1.7601",
 			"updateChannels": {
 				"gwv": {
-					"url": "https://github.com/josephsl/goldWave/releases/download/22.03/goldwave-22.12.nvda-addon"
+					"url": "https://github.com/josephsl/goldWave/releases/download/23.01/goldwave-23.01.nvda-addon"
 				}
 			}
 		},
