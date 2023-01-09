@@ -517,7 +517,7 @@
 				4,
 				0
 			],
-			"minimumWindowsVersion": "6.3.9600",
+			"minimumWindowsVersion": "10.0.19044",
 			"updateChannels": {
 				"ets": {
 					"url": "https://github.com/josephsl/enhancedTouchGestures/releases/download/23.01/enhancedTouchGestures-23.01.nvda-addon"
@@ -538,7 +538,7 @@
 				4,
 				0
 			],
-			"minimumWindowsVersion": "6.1.7601",
+			"minimumWindowsVersion": "10.0.19044",
 			"updateChannels": {
 				"evttracker": {
 					"url": "https://github.com/josephsl/evtTracker/releases/download/23.01/evtTracker-23.01.nvda-addon"
@@ -604,7 +604,7 @@
 				4,
 				0
 			],
-			"minimumWindowsVersion": "6.1.7601",
+			"minimumWindowsVersion": "10.0.19044",
 			"updateChannels": {
 				"gwv": {
 					"url": "https://github.com/josephsl/goldWave/releases/download/23.01/goldwave-23.01.nvda-addon"
@@ -850,7 +850,7 @@
 				4,
 				0
 			],
-			"minimumWindowsVersion": "6.1.7601",
+			"minimumWindowsVersion": "10.0.19044",
 			"updateChannels": {
 				"objLoc": {
 					"url": "https://github.com/josephsl/objLocationTones/releases/download/23.01/objLocTones-23.01.nvda-addon"
@@ -871,7 +871,7 @@
 				4,
 				0
 			],
-			"minimumWindowsVersion": "6.1.7601",
+			"minimumWindowsVersion": "10.0.19044",
 			"updateChannels": {
 				"objPad": {
 					"url": "https://github.com/josephsl/objPad/releases/download/23.01/objPad-23.01.nvda-addon"
@@ -907,7 +907,7 @@
 				4,
 				0
 			],
-			"minimumWindowsVersion": "10.0.10240",
+			"minimumWindowsVersion": "10.0.19044",
 			"updateChannels": {
 				"officedesk": {
 					"url": "https://github.com/josephsl/officeDesk/releases/download/23.01/officeDesk-23.01.nvda-addon"
@@ -1093,7 +1093,7 @@
 				4,
 				0
 			],
-			"minimumWindowsVersion": "6.1.7601",
+			"minimumWindowsVersion": "10.0.19044",
 			"updateChannels": {
 				"rm": {
 					"url": "https://github.com/josephsl/resourceMonitor/releases/download/23.01/resourceMonitor-23.01.nvda-addon"
@@ -1189,7 +1189,7 @@
 				4,
 				0
 			],
-			"minimumWindowsVersion": "6.1.7601",
+			"minimumWindowsVersion": "10.0.19044",
 			"updateChannels": {
 				"soundsplitter": {
 					"url": "https://github.com/josephsl/soundSplitter/releases/download/23.01/soundSplitter-23.01.nvda-addon"
@@ -1255,7 +1255,7 @@
 				4,
 				0
 			],
-			"minimumWindowsVersion": "6.1.7601",
+			"minimumWindowsVersion": "10.0.19044",
 			"updateChannels": {
 				"spl": {
 					"url": "https://github.com/josephsl/stationPlaylist/releases/download/23.01/stationPlaylist-23.01.nvda-addon"
