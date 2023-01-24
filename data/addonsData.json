@@ -39,7 +39,7 @@
 			"addonKey": "nvda3208",
 			"minimumNVDAVersion": [
 				2022,
-				3,
+				4,
 				0
 			],
 			"lastTestedNVDAVersion": [
@@ -509,7 +509,7 @@
 			"addonKey": "ets",
 			"minimumNVDAVersion": [
 				2022,
-				3,
+				4,
 				0
 			],
 			"lastTestedNVDAVersion": [
@@ -530,7 +530,7 @@
 			"addonKey": "evttracker",
 			"minimumNVDAVersion": [
 				2022,
-				3,
+				4,
 				0
 			],
 			"lastTestedNVDAVersion": [
@@ -596,7 +596,7 @@
 			"addonKey": "gwv",
 			"minimumNVDAVersion": [
 				2022,
-				3,
+				4,
 				0
 			],
 			"lastTestedNVDAVersion": [
@@ -842,7 +842,7 @@
 			"addonKey": "objLoc",
 			"minimumNVDAVersion": [
 				2022,
-				3,
+				4,
 				0
 			],
 			"lastTestedNVDAVersion": [
@@ -863,7 +863,7 @@
 			"addonKey": "objPad",
 			"minimumNVDAVersion": [
 				2022,
-				3,
+				4,
 				0
 			],
 			"lastTestedNVDAVersion": [
@@ -899,7 +899,7 @@
 			"addonKey": "officedesk",
 			"minimumNVDAVersion": [
 				2022,
-				3,
+				4,
 				0
 			],
 			"lastTestedNVDAVersion": [
@@ -1085,7 +1085,7 @@
 			"addonKey": "rm",
 			"minimumNVDAVersion": [
 				2022,
-				3,
+				4,
 				0
 			],
 			"lastTestedNVDAVersion": [
@@ -1181,7 +1181,7 @@
 			"addonKey": "soundsplitter",
 			"minimumNVDAVersion": [
 				2022,
-				3,
+				4,
 				0
 			],
 			"lastTestedNVDAVersion": [
@@ -1247,7 +1247,7 @@
 			"addonKey": "spl",
 			"minimumNVDAVersion": [
 				2022,
-				3,
+				4,
 				0
 			],
 			"lastTestedNVDAVersion": [
@@ -1538,7 +1538,7 @@
 			"addonKey": "w10",
 			"minimumNVDAVersion": [
 				2022,
-				3,
+				4,
 				0
 			],
 			"lastTestedNVDAVersion": [
