@@ -49,7 +49,7 @@
 			],
 			"updateChannels": {
 				"nvda3208": {
-					"url": "https://github.com/josephsl/addonUpdater/releases/download/23.01/addonUpdater-23.01.nvda-addon"
+					"url": "https://github.com/josephsl/addonUpdater/releases/download/23.02/addonUpdater-23.02.nvda-addon"
 				}
 			}
 		},
@@ -1549,7 +1549,7 @@
 			"minimumWindowsVersion": "10.0.19044",
 			"updateChannels": {
 				"w10": {
-					"url": "https://github.com/josephsl/wintenApps/releases/download/23.01/wintenApps-23.01.nvda-addon"
+					"url": "https://github.com/josephsl/wintenApps/releases/download/23.02/wintenApps-23.02.nvda-addon"
 				},
 				"w10-dev": {
 					"url": "https://www.josephsl.net/files/nvdaaddons/getupdate.php?file=w10-dev"
