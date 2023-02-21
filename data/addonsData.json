@@ -178,12 +178,12 @@
 			"author": "Cyrille Bougot <cyrille.bougot2@laposte.net>",
 			"addonKey": "chari",
 			"minimumNVDAVersion": [
-				2017,
+				2022,
 				3,
-				0
+				3
 			],
 			"lastTestedNVDAVersion": [
-				2022,
+				2023,
 				1,
 				0
 			]
@@ -333,8 +333,8 @@
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2022,
-				4,
+				2023,
+				1,
 				0
 			]
 		},
@@ -756,7 +756,7 @@
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2022,
+				2023,
 				1,
 				0
 			]
@@ -924,7 +924,7 @@
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2022,
+				2023,
 				1,
 				0
 			]
@@ -1155,7 +1155,7 @@
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2022,
+				2023,
 				1,
 				0
 			]
@@ -1236,7 +1236,7 @@
 				1
 			],
 			"lastTestedNVDAVersion": [
-				2022,
+				2023,
 				1,
 				0
 			]
@@ -1422,7 +1422,7 @@
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2022,
+				2023,
 				1,
 				0
 			]
@@ -1512,7 +1512,7 @@
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2019,
+				2023,
 				1,
 				0
 			]
