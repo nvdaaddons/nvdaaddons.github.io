@@ -1502,6 +1502,36 @@
 				0
 			]
 		},
+		"vocalizer_automotive_driver": {
+			"summary": "Nuance Vocalizer 5.5 Driver",
+			"author": "Tiflotecnia, LDA. <tiflotecnia@tiflotecnia.com>",
+			"addonKey": "vocalizerautomotive",
+			"minimumNVDAVersion": [
+				2019,
+				3,
+				0
+			],
+			"lastTestedNVDAVersion": [
+				2023,
+				1,
+				0
+			]
+		},
+		"vocalizer_expressive_driver": {
+			"summary": "Vocalizer Expressive 1.1 Driver",
+			"author": "Tiflotecnia, LDA. <tiflotecnia@tiflotecnia.com>",
+			"addonKey": "vocalizerexpressive",
+			"minimumNVDAVersion": [
+				2022,
+				1,
+				0
+			],
+			"lastTestedNVDAVersion": [
+				2023,
+				1,
+				0
+			]
+		},
 		"Weather Plus": {
 			"summary": "Weather Plus",
 			"author": "Adriano Barbieri <adrianobarb@yahoo.it>.",
