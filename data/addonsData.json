@@ -761,7 +761,7 @@
 				0
 			]
 		},
-		"newfon": {
+		"Newfon": {
 			"summary": "Newfon Speech synthesizer",
 			"author": "Sergey Shishmintsev, Alexy Sadovoi, Sergey A.K.A. Electrik, Kvark and other developers",
 			"addonKey": "newfon",
