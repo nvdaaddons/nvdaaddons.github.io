@@ -517,12 +517,7 @@
 				1,
 				0
 			],
-			"minimumWindowsVersion": "10.0.19044",
-			"updateChannels": {
-				"ets": {
-					"url": "https://github.com/josephsl/enhancedTouchGestures/releases/download/23.02/enhancedTouchGestures-23.02.1.nvda-addon"
-				}
-			}
+			"minimumWindowsVersion": "10.0.19044"
 		},
 		"evtTracker": {
 			"summary": "Event Tracker",
@@ -538,12 +533,7 @@
 				1,
 				0
 			],
-			"minimumWindowsVersion": "10.0.19044",
-			"updateChannels": {
-				"evttracker": {
-					"url": "https://github.com/josephsl/evtTracker/releases/download/23.02/evtTracker-23.02.1.nvda-addon"
-				}
-			}
+			"minimumWindowsVersion": "10.0.19044"
 		},
 		"extendedWinamp": {
 			"summary": "Extended Winamp",
@@ -604,12 +594,7 @@
 				1,
 				0
 			],
-			"minimumWindowsVersion": "10.0.19044",
-			"updateChannels": {
-				"gwv": {
-					"url": "https://github.com/josephsl/goldWave/releases/download/23.02/goldwave-23.02.1.nvda-addon"
-				}
-			}
+			"minimumWindowsVersion": "10.0.19044"
 		},
 		"ignoreBlanksIndentationReporting": {
 			"summary": "Ignore blanks Indentation Reporting",
@@ -850,12 +835,7 @@
 				1,
 				0
 			],
-			"minimumWindowsVersion": "10.0.19044",
-			"updateChannels": {
-				"objLoc": {
-					"url": "https://github.com/josephsl/objLocationTones/releases/download/23.02/objLocTones-23.02.1.nvda-addon"
-				}
-			}
+			"minimumWindowsVersion": "10.0.19044"
 		},
 		"objPad": {
 			"summary": "ObjPad",
@@ -871,12 +851,7 @@
 				1,
 				0
 			],
-			"minimumWindowsVersion": "10.0.19044",
-			"updateChannels": {
-				"objPad": {
-					"url": "https://github.com/josephsl/objPad/releases/download/23.02/objPad-23.02.1.nvda-addon"
-				}
-			}
+			"minimumWindowsVersion": "10.0.19044"
 		},
 		"ocr": {
 			"summary": "OCR",
@@ -907,12 +882,7 @@
 				1,
 				0
 			],
-			"minimumWindowsVersion": "10.0.19044",
-			"updateChannels": {
-				"officedesk": {
-					"url": "https://github.com/josephsl/officeDesk/releases/download/23.02/officeDesk-23.02.1.nvda-addon"
-				}
-			}
+			"minimumWindowsVersion": "10.0.19044"
 		},
 		"outlookExtended": {
 			"summary": "Outlook Extended",
@@ -1093,12 +1063,7 @@
 				1,
 				0
 			],
-			"minimumWindowsVersion": "10.0.19044",
-			"updateChannels": {
-				"rm": {
-					"url": "https://github.com/josephsl/resourceMonitor/releases/download/23.02/resourceMonitor-23.02.1.nvda-addon"
-				}
-			}
+			"minimumWindowsVersion": "10.0.19044"
 		},
 		"reviewCursorCopier": {
 			"summary": "Review Cursor Copier",
@@ -1189,12 +1154,7 @@
 				1,
 				0
 			],
-			"minimumWindowsVersion": "10.0.19044",
-			"updateChannels": {
-				"soundsplitter": {
-					"url": "https://github.com/josephsl/soundSplitter/releases/download/23.02/soundSplitter-23.02.1.nvda-addon"
-				}
-			}
+			"minimumWindowsVersion": "10.0.19044"
 		},
 		"speakPasswords": {
 			"summary": "Speak Passwords",
@@ -1255,12 +1215,7 @@
 				1,
 				0
 			],
-			"minimumWindowsVersion": "10.0.19044",
-			"updateChannels": {
-				"spl": {
-					"url": "https://github.com/josephsl/stationPlaylist/releases/download/23.02/stationPlaylist-23.02.1.nvda-addon"
-				}
-			}
+			"minimumWindowsVersion": "10.0.19044"
 		},
 		"switchSynth": {
 			"summary": "Switch synth",
