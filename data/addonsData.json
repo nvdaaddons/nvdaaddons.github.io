@@ -1534,7 +1534,7 @@
 			"minimumWindowsVersion": "10.0.19044",
 			"updateChannels": {
 				"w10": {
-					"url": "https://github.com/josephsl/wintenApps/releases/download/23.02/wintenApps-23.02.1.nvda-addon"
+					"url": "https://github.com/josephsl/wintenApps/releases/download/23.03/wintenApps-23.03.nvda-addon"
 				},
 				"w10-dev": {
 					"url": "https://www.josephsl.net/files/nvdaaddons/getupdate.php?file=w10-dev"
