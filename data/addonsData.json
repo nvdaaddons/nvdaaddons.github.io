@@ -49,7 +49,7 @@
 			],
 			"updateChannels": {
 				"nvda3208": {
-					"url": "https://github.com/josephsl/addonUpdater/releases/download/23.03/addonUpdater-23.03.3.nvda-addon"
+					"url": "https://github.com/josephsl/addonUpdater/releases/download/23.03/addonUpdater-23.03.4.nvda-addon"
 				}
 			}
 		},
