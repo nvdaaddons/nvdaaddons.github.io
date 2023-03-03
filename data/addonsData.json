@@ -629,7 +629,7 @@
 		"inputLock": {
 			"summary": "Input lock",
 			"author": "Jose Manuel Delicado <jm.delicado@nvda.es>",
-			"addonKey": "inputlock",
+			"addonKey": "inputLock",
 			"minimumNVDAVersion": [
 				2017,
 				3,
@@ -887,7 +887,7 @@
 		"outlookExtended": {
 			"summary": "Outlook Extended",
 			"author": "Cyrille Bougot <cyrille.bougot2@laposte.net>, Ralf Kefferpuetz <ralf.kefferpuetz@elra-consulting.de>",
-			"addonKey": "outlookextended",
+			"addonKey": "outlookExtended",
 			"minimumNVDAVersion": [
 				2018,
 				3,
@@ -1520,7 +1520,7 @@
 		"winMag": {
 			"summary": "Windows Magnifier",
 			"author": "Cyrille Bougot <cyrille.bougot2@laposte.net>",
-			"addonKey": "winmag",
+			"addonKey": "winMag",
 			"minimumNVDAVersion": [
 				2018,
 				3,
