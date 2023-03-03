@@ -1,6 +1,6 @@
 {
 	"general": {
-		"serial": "20220705"
+		"serial": "20220924"
 	},
 	"active": {
 		"Access8Math": {
@@ -36,20 +36,20 @@
 		"addonUpdater": {
 			"summary": "Add-on Updater",
 			"author": "Joseph Lee <joseph.lee22590@gmail.com>",
-			"addonKey": "nvda3208",
+			"addonKey": "addonUpdater",
 			"minimumNVDAVersion": [
 				2022,
-				2,
+				4,
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2022,
-				2,
+				2023,
+				1,
 				0
 			],
 			"updateChannels": {
-				"nvda3208": {
-					"url": "https://github.com/josephsl/addonUpdater/releases/download/22.08/addonUpdater-22.10.nvda-addon"
+				"addonUpdater": {
+					"url": "https://github.com/josephsl/addonUpdater/releases/download/23.03/addonUpdater-23.03.4.nvda-addon"
 				}
 			}
 		},
@@ -168,7 +168,7 @@
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2022,
+				2023,
 				1,
 				0
 			]
@@ -178,12 +178,12 @@
 			"author": "Cyrille Bougot <cyrille.bougot2@laposte.net>",
 			"addonKey": "chari",
 			"minimumNVDAVersion": [
-				2017,
+				2022,
 				3,
-				0
+				3
 			],
 			"lastTestedNVDAVersion": [
-				2022,
+				2023,
 				1,
 				0
 			]
@@ -221,15 +221,15 @@
 		"clipContentsDesigner": {
 			"summary": "Clip Contents Designer",
 			"author": "Noelia <nrm1977@gmail.com>, Abdel <abdelkrim.bensaid@gmail.com",
-			"addonKey": "ccd",
+			"addonKey": "clipContentsDesigner",
 			"minimumNVDAVersion": [
 				2022,
 				1,
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2022,
-				2,
+				2023,
+				1,
 				0
 			]
 		},
@@ -273,7 +273,7 @@
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2022,
+				2023,
 				1,
 				0
 			]
@@ -303,8 +303,8 @@
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2022,
-				2,
+				2023,
+				1,
 				0
 			]
 		},
@@ -333,7 +333,7 @@
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2022,
+				2023,
 				1,
 				0
 			]
@@ -438,7 +438,7 @@
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2022,
+				2023,
 				1,
 				0
 			]
@@ -453,15 +453,30 @@
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2022,
-				2,
+				2023,
+				1,
 				0
 			]
 		},
 		"eMule": {
 			"summary": "eMule",
 			"author": "Noelia <nrm1977@gmail.com>, Chris <llajta2012@gmail.com>, Alberto <a.buffolino@gmail.com>",
-			"addonKey": "em",
+			"addonKey": "eMule",
+			"minimumNVDAVersion": [
+				2022,
+				1,
+				0
+			],
+			"lastTestedNVDAVersion": [
+				2023,
+				1,
+				0
+			]
+		},
+		"enhancedAnnotations": {
+			"summary": "Enhanced Annotations",
+			"author": "George Kerscher <kerscher@montana.com>, Noelia Ruiz Martínez <nrm1977@gmail.com>",
+			"addonKey": "enhancedannotations",
 			"minimumNVDAVersion": [
 				2022,
 				1,
@@ -493,30 +508,32 @@
 			"author": "Joseph Lee <joseph.lee22590@gmail.com>",
 			"addonKey": "ets",
 			"minimumNVDAVersion": [
-				2021,
-				3,
+				2022,
+				4,
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2022,
+				2023,
 				1,
 				0
-			]
+			],
+			"minimumWindowsVersion": "10.0.19044"
 		},
 		"evtTracker": {
 			"summary": "Event Tracker",
 			"author": "Joseph Lee <joseph.lee22590@gmail.com>",
-			"addonKey": "evttracker",
+			"addonKey": "evtTracker",
 			"minimumNVDAVersion": [
-				2021,
-				3,
+				2022,
+				4,
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2022,
+				2023,
 				1,
 				0
-			]
+			],
+			"minimumWindowsVersion": "10.0.19044"
 		},
 		"extendedWinamp": {
 			"summary": "Extended Winamp",
@@ -543,7 +560,7 @@
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2022,
+				2023,
 				1,
 				0
 			]
@@ -551,14 +568,14 @@
 		"goldenCursor": {
 			"summary": "Golden Cursor",
 			"author": "Salah Atair <atair1978@gmail.com>, Wafeeq Taher, Joseph Lee <joseph.lee22590@gmail.com>, Abdel <abdelkrim.bensaid@gmail.com>, NVDA spanish community <contacto@nvda.es>",
-			"addonKey": "gc",
+			"addonKey": "goldenCursor",
 			"minimumNVDAVersion": [
 				2021,
 				3,
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2022,
+				2023,
 				1,
 				0
 			]
@@ -568,15 +585,16 @@
 			"author": "Joseph Lee <joseph.lee22590@gmail.com>, David Parduhn <xkill85@gmx.net>, Mesar Hameed <mhameed@src.gnome.org>",
 			"addonKey": "gwv",
 			"minimumNVDAVersion": [
-				2021,
-				3,
+				2022,
+				4,
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2022,
+				2023,
 				1,
 				0
-			]
+			],
+			"minimumWindowsVersion": "10.0.19044"
 		},
 		"ignoreBlanksIndentationReporting": {
 			"summary": "Ignore blanks Indentation Reporting",
@@ -611,14 +629,14 @@
 		"inputLock": {
 			"summary": "Input lock",
 			"author": "Jose Manuel Delicado <jm.delicado@nvda.es>",
-			"addonKey": "inputlock",
+			"addonKey": "inputLock",
 			"minimumNVDAVersion": [
 				2017,
 				3,
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2022,
+				2023,
 				1,
 				0
 			]
@@ -693,7 +711,7 @@
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2022,
+				2023,
 				1,
 				0
 			]
@@ -723,12 +741,12 @@
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2022,
+				2023,
 				1,
 				0
 			]
 		},
-		"newfon": {
+		"Newfon": {
 			"summary": "Newfon Speech synthesizer",
 			"author": "Sergey Shishmintsev, Alexy Sadovoi, Sergey A.K.A. Electrik, Kvark and other developers",
 			"addonKey": "newfon",
@@ -738,8 +756,8 @@
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2022,
-				2,
+				2023,
+				1,
 				0
 			]
 		},
@@ -753,7 +771,7 @@
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2022,
+				2023,
 				1,
 				0
 			]
@@ -783,7 +801,7 @@
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2022,
+				2023,
 				1,
 				0
 			]
@@ -808,30 +826,32 @@
 			"author": "Joseph Lee <joseph.lee22590@gmail.com>",
 			"addonKey": "objLoc",
 			"minimumNVDAVersion": [
-				2021,
-				3,
+				2022,
+				4,
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2022,
+				2023,
 				1,
 				0
-			]
+			],
+			"minimumWindowsVersion": "10.0.19044"
 		},
 		"objPad": {
 			"summary": "ObjPad",
 			"author": "Joseph Lee <joseph.lee22590@gmail.com>",
 			"addonKey": "objPad",
 			"minimumNVDAVersion": [
-				2021,
-				3,
+				2022,
+				4,
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2022,
+				2023,
 				1,
 				0
-			]
+			],
+			"minimumWindowsVersion": "10.0.19044"
 		},
 		"ocr": {
 			"summary": "OCR",
@@ -848,17 +868,33 @@
 				0
 			]
 		},
+		"officeDesk": {
+			"summary": "Office Desk",
+			"author": "Joseph Lee <joseph.lee22590@gmail.com> and others",
+			"addonKey": "officeDesk",
+			"minimumNVDAVersion": [
+				2022,
+				4,
+				0
+			],
+			"lastTestedNVDAVersion": [
+				2023,
+				1,
+				0
+			],
+			"minimumWindowsVersion": "10.0.19044"
+		},
 		"outlookExtended": {
 			"summary": "Outlook Extended",
 			"author": "Cyrille Bougot <cyrille.bougot2@laposte.net>, Ralf Kefferpuetz <ralf.kefferpuetz@elra-consulting.de>",
-			"addonKey": "outlookextended",
+			"addonKey": "outlookExtended",
 			"minimumNVDAVersion": [
 				2018,
 				3,
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2022,
+				2023,
 				1,
 				0
 			]
@@ -866,15 +902,15 @@
 		"pcKbBrl": {
 			"summary": "PC Keyboard Braille Input",
 			"author": "NV Access Limited, Noelia Ruiz Mart\u00ednez <nrm1977@gmail.com>",
-			"addonKey": "pckbbrl",
+			"addonKey": "pcKbBrl",
 			"minimumNVDAVersion": [
 				2019,
 				3,
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2022,
-				2,
+				2023,
+				1,
 				0
 			]
 		},
@@ -896,29 +932,29 @@
 		"placeMarkers": {
 			"summary": "Place markers",
 			"author": "Noelia <nrm1977@gmail.com>, Chris <llajta2012@gmail.com>",
-			"addonKey": "pm",
+			"addonKey": "placeMarkers",
 			"minimumNVDAVersion": [
 				2022,
 				1,
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2022,
-				2,
+				2023,
+				1,
 				0
 			]
 		},
 		"proxy": {
 			"summary": "Proxy support",
 			"author": "Jose Manuel Delicado <jm.delicado@nvda.es>",
-			"addonKey": "nvdaproxy",
+			"addonKey": "proxy",
 			"minimumNVDAVersion": [
 				2021,
 				3,
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2022,
+				2023,
 				1,
 				0
 			]
@@ -956,15 +992,15 @@
 		"readFeeds": {
 			"summary": "Read Feeds",
 			"author": "Noelia Ruiz Mart\u00ednez <nrm1977@gmail.com>, Mesar Hameed <mhameed@src.gnome.org>",
-			"addonKey": "rf",
+			"addonKey": "readFeeds",
 			"minimumNVDAVersion": [
 				2019,
 				3,
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2022,
-				2,
+				2023,
+				1,
 				0
 			]
 		},
@@ -986,47 +1022,48 @@
 		"reportPasswords": {
 			"summary": "Report Passwords",
 			"author": "Noelia Ruiz Mart\u00ednez <nrm1977@gmail.com>",
-			"addonKey": "rp",
+			"addonKey": "reportPasswords",
 			"minimumNVDAVersion": [
 				2019,
 				3,
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2022,
-				2,
+				2023,
+				1,
 				0
 			]
 		},
 		"reportSymbols": {
 			"summary": "Report Symbols",
 			"author": "Noelia Ruiz Mart\u00ednez <nrm1977@gmail.com>",
-			"addonKey": "rsy",
+			"addonKey": "reportSymbols",
 			"minimumNVDAVersion": [
 				2019,
 				3,
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2022,
-				2,
+				2023,
+				1,
 				0
 			]
 		},
 		"resourceMonitor": {
 			"summary": "Resource Monitor",
 			"author": "Alex Hall <mehgcap@gmail.com>, Joseph Lee <joseph.lee22590@gmail.com>, beqa gozalishvili <beqaprogger@gmail.com>, Tuukka Ojala <tuukka.ojala@gmail.com>, Ethin Probst <harlydavidsen@gmail.com> and other NVDA contributors",
-			"addonKey": "rm",
+			"addonKey": "resourceMonitor",
 			"minimumNVDAVersion": [
-				2021,
-				3,
+				2022,
+				4,
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2022,
+				2023,
 				1,
 				0
-			]
+			],
+			"minimumWindowsVersion": "10.0.19044"
 		},
 		"reviewCursorCopier": {
 			"summary": "Review Cursor Copier",
@@ -1073,6 +1110,21 @@
 				0
 			]
 		},
+		"screenshots": {
+			"summary": "Screenshots Wizard",
+			"author": "Javi Dominguez <fjavids@gmail.com>",
+			"addonKey": "scrsw",
+			"minimumNVDAVersion": [
+				2021,
+				2,
+				0
+			],
+			"lastTestedNVDAVersion": [
+				2023,
+				1,
+				0
+			]
+		},
 		"searchWith": {
 			"summary": "Search With",
 			"author": "ibrahim hamadeh <ibra.hamadeh@hotmail.com>",
@@ -1083,7 +1135,7 @@
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2022,
+				2023,
 				1,
 				0
 			]
@@ -1106,17 +1158,18 @@
 		"soundSplitter": {
 			"summary": "Sound Splitter",
 			"author": "Joseph Lee and other contributors",
-			"addonKey": "soundsplitter",
+			"addonKey": "soundSplitter",
 			"minimumNVDAVersion": [
-				2021,
-				3,
+				2022,
+				4,
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2022,
+				2023,
 				1,
 				0
-			]
+			],
+			"minimumWindowsVersion": "10.0.19044"
 		},
 		"speakPasswords": {
 			"summary": "Speak Passwords",
@@ -1158,7 +1211,7 @@
 				1
 			],
 			"lastTestedNVDAVersion": [
-				2022,
+				2023,
 				1,
 				0
 			]
@@ -1168,15 +1221,16 @@
 			"author": "Geoff Shang, Joseph Lee and other contributors",
 			"addonKey": "spl",
 			"minimumNVDAVersion": [
-				2021,
-				3,
+				2022,
+				4,
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2022,
+				2023,
 				1,
 				0
-			]
+			],
+			"minimumWindowsVersion": "10.0.19044"
 		},
 		"switchSynth": {
 			"summary": "Switch synth",
@@ -1218,7 +1272,7 @@
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2022,
+				2023,
 				1,
 				0
 			]
@@ -1323,7 +1377,7 @@
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2022,
+				2023,
 				1,
 				0
 			]
@@ -1338,7 +1392,7 @@
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2022,
+				2023,
 				1,
 				0
 			]
@@ -1376,14 +1430,14 @@
 		"updateChannel": {
 			"summary": "Update channel selector",
 			"author": "Jose Manuel Delicado <jm.delicado@nvda.es>, Javi Dominguez <fjavids@gmail.com>",
-			"addonKey": "updchannelselect",
+			"addonKey": "updateChannel",
 			"minimumNVDAVersion": [
 				2021,
 				3,
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2022,
+				2023,
 				1,
 				0
 			]
@@ -1413,7 +1467,37 @@
 				0
 			],
 			"lastTestedNVDAVersion": [
+				2023,
+				1,
+				0
+			]
+		},
+		"vocalizer_automotive_driver": {
+			"summary": "Nuance Vocalizer 5.5 Driver",
+			"author": "Tiflotecnia, LDA. <tiflotecnia@tiflotecnia.com>",
+			"addonKey": "vocalizerautomotive",
+			"minimumNVDAVersion": [
+				2019,
+				3,
+				0
+			],
+			"lastTestedNVDAVersion": [
+				2023,
+				1,
+				0
+			]
+		},
+		"vocalizer_expressive_driver": {
+			"summary": "Vocalizer Expressive 1.1 Driver",
+			"author": "Tiflotecnia, LDA. <tiflotecnia@tiflotecnia.com>",
+			"addonKey": "vocalizerexpressive",
+			"minimumNVDAVersion": [
 				2022,
+				1,
+				0
+			],
+			"lastTestedNVDAVersion": [
+				2023,
 				1,
 				0
 			]
@@ -1428,7 +1512,7 @@
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2019,
+				2023,
 				1,
 				0
 			]
@@ -1436,7 +1520,7 @@
 		"winMag": {
 			"summary": "Windows Magnifier",
 			"author": "Cyrille Bougot <cyrille.bougot2@laposte.net>",
-			"addonKey": "winmag",
+			"addonKey": "winMag",
 			"minimumNVDAVersion": [
 				2018,
 				3,
@@ -1453,15 +1537,24 @@
 			"author": "Joseph Lee <joseph.lee22590@gmail.com>, Derek Riemer <driemer.riemer@gmail.com> and others",
 			"addonKey": "w10",
 			"minimumNVDAVersion": [
-				2021,
-				3,
+				2022,
+				4,
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2022,
-				2,
+				2023,
+				1,
 				0
-			]
+			],
+			"minimumWindowsVersion": "10.0.19044",
+			"updateChannels": {
+				"w10": {
+					"url": "https://github.com/josephsl/wintenApps/releases/download/23.03/wintenApps-23.03.nvda-addon"
+				},
+				"w10-dev": {
+					"url": "https://www.josephsl.net/files/nvdaaddons/getupdate.php?file=w10-dev"
+				}
+			}
 		},
 		"winWizard": {
 			"summary": "Win Wizard",
@@ -1570,21 +1663,6 @@
 			"lastTestedNVDAVersion": [
 				2019,
 				2,
-				0
-			]
-		},
-		"screenshots": {
-			"summary": "Screenshots Wizard",
-			"author": "Javi Dominguez <fjavids@gmail.com>",
-			"addonKey": "scrsw",
-			"minimumNVDAVersion": [
-				2021,
-				2,
-				0
-			],
-			"lastTestedNVDAVersion": [
-				2022,
-				1,
 				0
 			]
 		},
