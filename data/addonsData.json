@@ -1574,7 +1574,7 @@
 		"wordCount": {
 			"summary": "Count elements of the selected text",
 			"author": "Rui Fontes <rui.fontes@tiflotecnia.com>",
-			"addonKey": "wc",
+			"addonKey": "wordCount",
 			"minimumNVDAVersion": [
 				2019,
 				3,
