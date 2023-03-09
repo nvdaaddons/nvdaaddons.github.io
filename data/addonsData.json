@@ -236,14 +236,14 @@
 		"clipspeak": {
 			"summary": "Clipspeak",
 			"author": "Damien Sykes-Lindley <damien@dcpendleton.plus.com>",
-			"addonKey": "cs",
+			"addonKey": "clipspeak",
 			"minimumNVDAVersion": [
 				2019,
 				3,
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2022,
+				2023,
 				1,
 				0
 			]
@@ -1527,7 +1527,7 @@
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2022,
+				2023,
 				1,
 				0
 			]
