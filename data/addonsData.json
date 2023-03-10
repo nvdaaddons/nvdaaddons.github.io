@@ -794,7 +794,7 @@
 		"numpadNavMode": {
 			"summary": "Numpad Nav Mode",
 			"author": "Luke Davis (Open Source Systems, Ltd.) <newanswertech@gmail.com>",
-			"addonKey": "numpadNav",
+			"addonKey": "numpadNavMode",
 			"minimumNVDAVersion": [
 				2019,
 				3,
@@ -1098,14 +1098,14 @@
 		"sayProductNameAndVersion": {
 			"summary": "Say Product Name and Version",
 			"author": "Patrick ZAJDA <patrick@zajda.fr>",
-			"addonKey": "spnav",
+			"addonKey": "sayProductNameAndVersion",
 			"minimumNVDAVersion": [
 				2017,
 				3,
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2022,
+				2023,
 				1,
 				0
 			]
