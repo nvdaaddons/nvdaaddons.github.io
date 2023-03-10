@@ -296,7 +296,7 @@
 		"controlUsageAssistant": {
 			"summary": "Control Usage Assistant",
 			"author": "Joseph Lee <joseph.lee22590@gmail.com>, Noelia Ruiz Martínez <nrm1977@gmail.com>",
-			"addonKey": "cua",
+			"addonKey": "controlUsageAssistant",
 			"minimumNVDAVersion": [
 				2022,
 				1,
