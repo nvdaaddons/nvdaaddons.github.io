@@ -56,14 +56,14 @@
 		"applicationDictionary": {
 			"summary": "Application Dictionary",
 			"author": "Rui Fontes <rui.fontes@tiflotecnia.com> and Ricardo Leonarczyk <ricardo.leonarczyk95@gmail.com> and colaboration of Cyrille Bougot",
-			"addonKey": "appdict",
+			"addonKey": "applicationDictionary",
 			"minimumNVDAVersion": [
 				2019,
 				3,
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2022,
+				2023,
 				1,
 				0
 			]
