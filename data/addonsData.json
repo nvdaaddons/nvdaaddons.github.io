@@ -416,14 +416,14 @@
 		"dropbox": {
 			"summary": "Dropbox",
 			"author": "Patrick ZAJDA <patrick@zajda.fr>, Filaos and other contributors",
-			"addonKey": "dx",
+			"addonKey": "dropbox",
 			"minimumNVDAVersion": [
 				2019,
 				1,
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2022,
+				2023,
 				1,
 				0
 			]
@@ -446,7 +446,7 @@
 		"emoticons": {
 			"summary": "Emoticons",
 			"author": "Chris Leo <llajta2012@gmail.com>, Noelia Ruiz Mart\u00ednez <nrm1977@gmail.com>, Mesar Hameed <mesar.hameed@gmail.com>, Francisco Javier Estrada Mart\u00ednez <Fjestrad@hotmail.com>",
-			"addonKey": "emo",
+			"addonKey": "emoticons",
 			"minimumNVDAVersion": [
 				2022,
 				1,
@@ -1204,7 +1204,7 @@
 		"speechLogger": {
 			"summary": "Speech Logger",
 			"author": "Luke Davis <XLTechie@newanswertech.com>, James Scholes",
-			"addonKey": "splogger",
+			"addonKey": "speechLogger",
 			"minimumNVDAVersion": [
 				2019,
 				3,
@@ -1400,14 +1400,14 @@
 		"unicodeBrailleInput": {
 			"summary": "Unicode Braille Input",
 			"author": "Mesar Hameed <mhameed@src.gnome.org>, Patrick ZAJDA <patrick@zajda.fr>, Leonard de Ruijter <alderuijter@gmail.com>",
-			"addonKey": "ubi",
+			"addonKey": "unicodeBrailleInput",
 			"minimumNVDAVersion": [
 				2017,
 				3,
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2022,
+				2023,
 				1,
 				0
 			]
@@ -1445,14 +1445,14 @@
 		"virtualRevision": {
 			"summary": "Virtual Review",
 			"author": "Rui Fontes <rui.fontes@tiflotecnia.com>, Rui Batista <ruiandrebatista@gmail.com> and NVDA Addon Team",
-			"addonKey": "VR",
+			"addonKey": "virtualRevision",
 			"minimumNVDAVersion": [
 				2019,
 				3,
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2022,
+				2023,
 				1,
 				0
 			]
