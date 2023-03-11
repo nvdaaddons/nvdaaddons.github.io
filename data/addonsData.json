@@ -1520,7 +1520,7 @@
 		"winMag": {
 			"summary": "Windows Magnifier",
 			"author": "Cyrille Bougot <cyrille.bougot2@laposte.net>",
-			"addonKey": "winMag",
+			"addonKey": "winmag",
 			"minimumNVDAVersion": [
 				2018,
 				3,
