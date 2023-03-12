@@ -251,14 +251,14 @@
 		"clock": {
 			"summary": "Clock",
 			"author": "Hrvoje Katic <hrvojekatic@gmail.com>, Abdel <abdelkrim.bensaid@gmail.com>",
-			"addonKey": "cac",
+			"addonKey": "clock",
 			"minimumNVDAVersion": [
 				2019,
 				3,
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2022,
+				2023,
 				1,
 				0
 			]
