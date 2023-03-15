@@ -506,7 +506,7 @@
 		"enhancedTouchGestures": {
 			"summary": "Enhanced Touch Gestures",
 			"author": "Joseph Lee <joseph.lee22590@gmail.com>",
-			"addonKey": "ets",
+			"addonKey": "enhancedTouchGestures",
 			"minimumNVDAVersion": [
 				2022,
 				4,
@@ -583,7 +583,7 @@
 		"goldwave": {
 			"summary": "GoldWave",
 			"author": "Joseph Lee <joseph.lee22590@gmail.com>, David Parduhn <xkill85@gmx.net>, Mesar Hameed <mhameed@src.gnome.org>",
-			"addonKey": "gwv",
+			"addonKey": "goldwave",
 			"minimumNVDAVersion": [
 				2022,
 				4,
@@ -824,7 +824,7 @@
 		"objLocTones": {
 			"summary": "Object Location Tones",
 			"author": "Joseph Lee <joseph.lee22590@gmail.com>",
-			"addonKey": "objLoc",
+			"addonKey": "objLocTones",
 			"minimumNVDAVersion": [
 				2022,
 				4,
@@ -1219,7 +1219,7 @@
 		"stationPlaylist": {
 			"summary": "StationPlaylist",
 			"author": "Geoff Shang, Joseph Lee and other contributors",
-			"addonKey": "spl",
+			"addonKey": "stationPlaylist",
 			"minimumNVDAVersion": [
 				2022,
 				4,
@@ -1535,7 +1535,7 @@
 		"wintenApps": {
 			"summary": "Windows App Essentials",
 			"author": "Joseph Lee <joseph.lee22590@gmail.com>, Derek Riemer <driemer.riemer@gmail.com> and others",
-			"addonKey": "w10",
+			"addonKey": "wintenApps",
 			"minimumNVDAVersion": [
 				2022,
 				4,
@@ -1548,10 +1548,10 @@
 			],
 			"minimumWindowsVersion": "10.0.19044",
 			"updateChannels": {
-				"w10": {
+				"wintenApps": {
 					"url": "https://github.com/josephsl/wintenApps/releases/download/23.03/wintenApps-23.03.1.nvda-addon"
 				},
-				"w10-dev": {
+				"wintenApps-dev": {
 					"url": "https://www.josephsl.net/files/nvdaaddons/getupdate.php?file=w10-dev"
 				}
 			}
