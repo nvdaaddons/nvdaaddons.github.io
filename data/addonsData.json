@@ -522,7 +522,7 @@
 		"evtTracker": {
 			"summary": "Event Tracker",
 			"author": "Joseph Lee <joseph.lee22590@gmail.com>",
-			"addonKey": "evtTracker",
+			"addonKey": "evttracker",
 			"minimumNVDAVersion": [
 				2022,
 				4,
@@ -871,7 +871,7 @@
 		"officeDesk": {
 			"summary": "Office Desk",
 			"author": "Joseph Lee <joseph.lee22590@gmail.com> and others",
-			"addonKey": "officeDesk",
+			"addonKey": "officedesk",
 			"minimumNVDAVersion": [
 				2022,
 				4,
