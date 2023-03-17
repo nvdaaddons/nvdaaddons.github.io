@@ -835,7 +835,12 @@
 				1,
 				0
 			],
-			"minimumWindowsVersion": "10.0.19044"
+			"minimumWindowsVersion": "10.0.19044",
+			"updateChannels": {
+				"objLocTones": {
+					"url": "https://github.com/josephsl/objLocationTones/releases/download/23.04/objLocTones-23.04.nvda-addon"
+				}
+			}
 		},
 		"objPad": {
 			"summary": "ObjPad",
@@ -882,7 +887,12 @@
 				1,
 				0
 			],
-			"minimumWindowsVersion": "10.0.19044"
+			"minimumWindowsVersion": "10.0.19044",
+			"updateChannels": {
+				"officedesk": {
+					"url": "https://github.com/josephsl/officeDesk/releases/download/23.04/officeDesk-23.04.nvda-addon"
+				}
+			}
 		},
 		"outlookExtended": {
 			"summary": "Outlook Extended",
