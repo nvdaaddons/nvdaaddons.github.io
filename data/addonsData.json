@@ -835,12 +835,7 @@
 				1,
 				0
 			],
-			"minimumWindowsVersion": "10.0.19044",
-			"updateChannels": {
-				"objLocTones": {
-					"url": "https://github.com/josephsl/objLocationTones/releases/download/23.04/objLocTones-23.04.nvda-addon"
-				}
-			}
+			"minimumWindowsVersion": "10.0.19044"
 		},
 		"objPad": {
 			"summary": "ObjPad",
