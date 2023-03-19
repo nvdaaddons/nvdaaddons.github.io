@@ -887,12 +887,7 @@
 				1,
 				0
 			],
-			"minimumWindowsVersion": "10.0.19044",
-			"updateChannels": {
-				"officedesk": {
-					"url": "https://github.com/josephsl/officeDesk/releases/download/23.04/officeDesk-23.04.nvda-addon"
-				}
-			}
+			"minimumWindowsVersion": "10.0.19044"
 		},
 		"outlookExtended": {
 			"summary": "Outlook Extended",
