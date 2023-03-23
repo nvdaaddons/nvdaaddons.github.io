@@ -176,7 +176,7 @@
 		"charInfo": {
 			"summary": "Character information",
 			"author": "Cyrille Bougot <cyrille.bougot2@laposte.net>",
-			"addonKey": "chari",
+			"addonKey": "charInfo",
 			"minimumNVDAVersion": [
 				2022,
 				3,
