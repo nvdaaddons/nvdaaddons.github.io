@@ -49,7 +49,7 @@
 			],
 			"updateChannels": {
 				"addonUpdater": {
-					"url": "https://github.com/josephsl/addonUpdater/releases/download/23.03/addonUpdater-23.03.4.nvda-addon"
+					"url": "https://github.com/josephsl/addonUpdater/releases/download/23.04/addonUpdater-23.04.nvda-addon"
 				}
 			}
 		},
