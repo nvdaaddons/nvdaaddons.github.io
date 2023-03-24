@@ -476,15 +476,15 @@
 		"enhancedAnnotations": {
 			"summary": "Enhanced Annotations",
 			"author": "George Kerscher <kerscher@montana.com>, Noelia Ruiz Martínez <nrm1977@gmail.com>",
-			"addonKey": "enhancedannotations",
+			"addonKey": "enhancedAnnotations",
 			"minimumNVDAVersion": [
 				2022,
 				1,
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2022,
-				2,
+				2023,
+				1,
 				0
 			]
 		},
@@ -644,14 +644,14 @@
 		"instantTranslate": {
 			"summary": "Instant Translate",
 			"author": "Alexy Sadovoy aka Lex <lex@progger.su>, ruslan <ru2020slan@yandex.ru>, beqa <beqaprogger@gmail.com>, Mesar Hameed <mhameed@src.gnome.org>, Alberto Buffolino <a.buffolino@gmail.com>, and other NVDA contributors",
-			"addonKey": "it",
+			"addonKey": "instantTranslate",
 			"minimumNVDAVersion": [
 				2018,
 				3,
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2022,
+				2023,
 				1,
 				0
 			]
