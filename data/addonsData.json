@@ -887,7 +887,7 @@
 		"outlookExtended": {
 			"summary": "Outlook Extended",
 			"author": "Cyrille Bougot <cyrille.bougot2@laposte.net>, Ralf Kefferpuetz <ralf.kefferpuetz@elra-consulting.de>",
-			"addonKey": "outlookExtended",
+			"addonKey": "outlookextended",
 			"minimumNVDAVersion": [
 				2018,
 				3,
