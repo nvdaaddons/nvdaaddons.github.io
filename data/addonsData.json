@@ -1063,7 +1063,12 @@
 				1,
 				0
 			],
-			"minimumWindowsVersion": "10.0.19044"
+			"minimumWindowsVersion": "10.0.19044",
+			"updateChannels": {
+				"resourceMonitor": {
+					"url": "https://github.com/kefaslungu/resourceMonitor/releases/download/23.04/resourceMonitor-23.04.2.nvda-addon"
+				}
+			}
 		},
 		"reviewCursorCopier": {
 			"summary": "Review Cursor Copier",
