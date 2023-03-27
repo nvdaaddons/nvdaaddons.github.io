@@ -4,7 +4,7 @@
 	},
 	"active": {
 		"Access8Math": {
-			"summary": "Access8Math",
+			"summary": "access8math",
 			"author": "Tseng Woody <tsengwoody.tw@gmail.com>",
 			"addonKey": "Access8Math",
 			"minimumNVDAVersion": [
@@ -13,7 +13,7 @@
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2022,
+				2023,
 				1,
 				0
 			]
