@@ -46,12 +46,7 @@
 				2023,
 				1,
 				0
-			],
-			"updateChannels": {
-				"addonUpdater": {
-					"url": "https://github.com/josephsl/addonUpdater/releases/download/23.04/addonUpdater-23.04.nvda-addon"
-				}
-			}
+			]
 		},
 		"applicationDictionary": {
 			"summary": "Application Dictionary",
