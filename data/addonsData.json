@@ -1191,10 +1191,15 @@
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2022,
+				2023,
 				1,
 				0
-			]
+			],
+			"updateChannels": {
+				"sps": {
+					"url": "https://github.com/jscholes/nvda-speech-history/releases/download/v2023.1/speechHistory-2023.1.nvda-addon"
+				}
+			}
 		},
 		"speechLogger": {
 			"summary": "Speech Logger",
