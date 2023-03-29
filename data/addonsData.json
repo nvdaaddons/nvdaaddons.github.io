@@ -46,12 +46,7 @@
 				2023,
 				1,
 				0
-			],
-			"updateChannels": {
-				"addonUpdater": {
-					"url": "https://addons.nvda-project.org/files/get.php?file=addonUpdater"
-				}
-			}
+			]
 		},
 		"applicationDictionary": {
 			"summary": "Application Dictionary",
