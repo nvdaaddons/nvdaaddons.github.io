@@ -1282,6 +1282,21 @@
 				0
 			]
 		},
+		"TeleNVDA": {
+			"summary": "Tele NVDA remote assistance",
+			"author": "Asociación Comunidad Hispanohablante de NVDA <contacto@nvda.es> and other contributors. Original work by Tyler Spivey <tspivey@pcdesk.net>, Christopher Toth <q@q-continuum.net>",
+			"addonKey": "TeleNVDA",
+			"minimumNVDAVersion": [
+				2019,
+				3,
+				0
+			],
+			"lastTestedNVDAVersion": [
+				2023,
+				1,
+				0
+			]
+		},
 		"textInformation": {
 			"summary": "text information",
 			"author": "Carter Temm <crtbraille@gmail.com>",
