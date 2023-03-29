@@ -1551,18 +1551,7 @@
 				1,
 				0
 			],
-			"minimumWindowsVersion": "10.0.19044",
-			"updateChannels": {
-				"wintenApps": {
-					"url": "https://github.com/josephsl/wintenApps/releases/download/23.04/wintenApps-23.04.2.nvda-addon"
-				},
-				"wintenApps-beta": {
-					"url": "https://www.josephsl.net/files/nvdaaddons/getupdate.php?file=wintenApps-beta"
-				},
-				"wintenApps-dev": {
-					"url": "https://www.josephsl.net/files/nvdaaddons/getupdate.php?file=w10-dev"
-				}
-			}
+			"minimumWindowsVersion": "10.0.19044"
 		},
 		"winWizard": {
 			"summary": "Win Wizard",
