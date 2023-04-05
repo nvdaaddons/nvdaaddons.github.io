@@ -1002,7 +1002,7 @@
 		"remote": {
 			"summary": "Remote Support",
 			"author": "Tyler Spivey <tspivey@pcdesk.net>, Christopher Toth <q@q-continuum.net>",
-			"addonKey": "nvdaremote",
+			"addonKey": "remote",
 			"minimumNVDAVersion": [
 				2019,
 				3,
@@ -1012,12 +1012,7 @@
 				2023,
 				1,
 				0
-			],
-			"updateChannels": {
-				"nvdaremote": {
-					"url": "https://github.com/NVDARemote/NVDARemote/releases/download/v2.6.2/remote-2.6.2.nvda-addon"
-				}
-			}
+			]
 		},
 		"reportPasswords": {
 			"summary": "Report Passwords",
