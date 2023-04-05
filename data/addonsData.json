@@ -1002,7 +1002,7 @@
 		"remote": {
 			"summary": "Remote Support",
 			"author": "Tyler Spivey <tspivey@pcdesk.net>, Christopher Toth <q@q-continuum.net>",
-			"addonKey": "nvdaremote",
+			"addonKey": "remote",
 			"minimumNVDAVersion": [
 				2019,
 				3,
