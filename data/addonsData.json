@@ -1240,14 +1240,14 @@
 		"switchSynth": {
 			"summary": "Switch synth",
 			"author": "Tyler Spivey <tspivey@pcdesk.net>",
-			"addonKey": "sws",
+			"addonKey": "switchSynth",
 			"minimumNVDAVersion": [
 				2019,
 				2,
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2022,
+				2023,
 				1,
 				0
 			]
