@@ -1400,7 +1400,7 @@
 		"trainingKeyboardCommands": {
 			"summary": "Training Keyboards Commands",
 			"author": "ibrahim hamadeh <ibra.hamadeh@hotmail.com>",
-			"addonKey": "trainingkbdcmd",
+			"addonKey": "trainingKeyboardCommands",
 			"minimumNVDAVersion": [
 				2019,
 				3,
