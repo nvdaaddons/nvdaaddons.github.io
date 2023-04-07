@@ -1611,14 +1611,14 @@
 		"zoomEnhancements": {
 			"summary": "Zoom Enhancements",
 			"author": "Mohammad Suliman <mohmad.s93@gmail.com>, Eilana Benish <benish.ilana@gmail.com>",
-			"addonKey": "zoom",
+			"addonKey": "zoomEnhancements",
 			"minimumNVDAVersion": [
 				2018,
 				4,
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2022,
+				2023,
 				1,
 				0
 			]
