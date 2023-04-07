@@ -533,14 +533,14 @@
 		"extendedWinamp": {
 			"summary": "Extended Winamp",
 			"author": "Hrvoje Katic <hrvojekatic@gmail.com>, Beqa Gozalishvili <beqaprogger@gmail.com>, NVDA-addon-team",
-			"addonKey": "ew",
+			"addonKey": "extendedWinamp",
 			"minimumNVDAVersion": [
 				2020,
 				1,
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2022,
+				2023,
 				1,
 				0
 			]
