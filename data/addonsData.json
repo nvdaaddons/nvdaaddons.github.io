@@ -336,14 +336,14 @@
 		"dayOfTheWeek": {
 			"summary": "Day of the week",
 			"author": "Abdel <abdelkrim.bensaid@gmail.com>, Noelia <nrm1977@gmail.com>",
-			"addonKey": "dw",
+			"addonKey": "dayOfTheWeek",
 			"minimumNVDAVersion": [
 				2014,
 				3,
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2022,
+				2023,
 				1,
 				0
 			]
