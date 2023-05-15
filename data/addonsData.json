@@ -483,21 +483,6 @@
 				0
 			]
 		},
-		"enhancedAria": {
-			"summary": "Enhanced Aria",
-			"author": "Jose Manuel Delicado <jm.delicado@nvda.es>",
-			"addonKey": "earia",
-			"minimumNVDAVersion": [
-				2017,
-				4,
-				0
-			],
-			"lastTestedNVDAVersion": [
-				2019,
-				2,
-				0
-			]
-		},
 		"enhancedTouchGestures": {
 			"summary": "Enhanced Touch Gestures",
 			"author": "Joseph Lee <joseph.lee22590@gmail.com>",
