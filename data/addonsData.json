@@ -38,8 +38,8 @@
 			"author": "Joseph Lee <joseph.lee22590@gmail.com>",
 			"addonKey": "addonUpdater",
 			"minimumNVDAVersion": [
-				2022,
-				4,
+				2023,
+				1,
 				0
 			],
 			"lastTestedNVDAVersion": [
@@ -1552,8 +1552,8 @@
 			"author": "Joseph Lee <joseph.lee22590@gmail.com>, Derek Riemer <driemer.riemer@gmail.com> and others",
 			"addonKey": "wintenApps",
 			"minimumNVDAVersion": [
-				2022,
-				4,
+				2023,
+				1,
 				0
 			],
 			"lastTestedNVDAVersion": [
