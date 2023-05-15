@@ -1343,21 +1343,6 @@
 				0
 			]
 		},
-		"toneMaster": {
-			"summary": "Tone Master",
-			"author": "Hrvoje Kati\u0107 <hrvojekatic@gmail.com>",
-			"addonKey": "tmast",
-			"minimumNVDAVersion": [
-				2018,
-				3,
-				0
-			],
-			"lastTestedNVDAVersion": [
-				2019,
-				1,
-				0
-			]
-		},
 		"tonysEnhancements": {
 			"summary": "Tony's enhancements",
 			"author": "Tony Malykh <anton.malykh@gmail.com>",
@@ -1676,6 +1661,22 @@
 			"lastTestedNVDAVersion": [
 				0,
 				0,
+				0
+			]
+		},
+		"toneMaster": {
+			"summary": "Tone Master",
+			"author": "Hrvoje Kati\u0107 <hrvojekatic@gmail.com>",
+			"legacyReason": "Declared by author (no longer maintained)",
+			"addonKey": "tmast",
+			"minimumNVDAVersion": [
+				2018,
+				3,
+				0
+			],
+			"lastTestedNVDAVersion": [
+				2019,
+				1,
 				0
 			]
 		}
