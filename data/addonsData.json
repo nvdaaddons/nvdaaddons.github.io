@@ -511,8 +511,7 @@
 				2023,
 				1,
 				0
-			],
-			"minimumWindowsVersion": "10.0.19044"
+			]
 		},
 		"evtTracker": {
 			"summary": "Event Tracker",
@@ -527,8 +526,7 @@
 				2023,
 				1,
 				0
-			],
-			"minimumWindowsVersion": "10.0.19044"
+			]
 		},
 		"extendedWinamp": {
 			"summary": "Extended Winamp",
@@ -588,8 +586,7 @@
 				2023,
 				1,
 				0
-			],
-			"minimumWindowsVersion": "10.0.19044"
+			]
 		},
 		"ignoreBlanksIndentationReporting": {
 			"summary": "Ignore blanks Indentation Reporting",
@@ -829,8 +826,7 @@
 				2023,
 				1,
 				0
-			],
-			"minimumWindowsVersion": "10.0.19044"
+			]
 		},
 		"objPad": {
 			"summary": "ObjPad",
@@ -845,8 +841,7 @@
 				2023,
 				1,
 				0
-			],
-			"minimumWindowsVersion": "10.0.19044"
+			]
 		},
 		"ocr": {
 			"summary": "OCR",
@@ -876,8 +871,7 @@
 				2023,
 				1,
 				0
-			],
-			"minimumWindowsVersion": "10.0.19044"
+			]
 		},
 		"outlookExtended": {
 			"summary": "Outlook Extended",
@@ -1057,8 +1051,7 @@
 				2023,
 				1,
 				0
-			],
-			"minimumWindowsVersion": "10.0.19044"
+			]
 		},
 		"reviewCursorCopier": {
 			"summary": "Review Cursor Copier",
@@ -1163,8 +1156,7 @@
 				2023,
 				1,
 				0
-			],
-			"minimumWindowsVersion": "10.0.19044"
+			]
 		},
 		"speakPasswords": {
 			"summary": "Speak Passwords",
@@ -1229,8 +1221,7 @@
 				2023,
 				1,
 				0
-			],
-			"minimumWindowsVersion": "10.0.19044"
+			]
 		},
 		"switchSynth": {
 			"summary": "Switch synth",
@@ -1560,8 +1551,7 @@
 				2023,
 				2,
 				0
-			],
-			"minimumWindowsVersion": "10.0.19045"
+			]
 		},
 		"winWizard": {
 			"summary": "Win Wizard",
