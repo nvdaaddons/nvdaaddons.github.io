@@ -594,7 +594,7 @@
 		"ignoreBlanksIndentationReporting": {
 			"summary": "Ignore blanks Indentation Reporting",
 			"author": "Samuel Kacer <samuel.kacer@gmail.com>",
-			"addonKey": "ibir",
+			"addonKey": "ignoreBlanksIndentationReporting",
 			"minimumNVDAVersion": [
 				2021,
 				1,
@@ -714,14 +714,14 @@
 		"mp3DirectCut": {
 			"summary": "mp3DirectCut",
 			"author": "Abdel, R\u00e8my Ruiz, Abdellah Zineddine, Jean-Fran\u00e7ois Colas",
-			"addonKey": "mp3dc",
+			"addonKey": "mp3DirectCut",
 			"minimumNVDAVersion": [
 				2016,
 				4,
 				0
 			],
 			"lastTestedNVDAVersion": [
-				2022,
+				2023,
 				1,
 				0
 			]
