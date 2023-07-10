@@ -6,7 +6,7 @@
 		"Access8Math": {
 			"summary": "access8math",
 			"author": "Tseng Woody <tsengwoody.tw@gmail.com>",
-			"addonKey": "access8math",
+			"addonKey": "Access8Math",
 			"minimumNVDAVersion": [
 				2019,
 				3,
@@ -21,7 +21,7 @@
 		"addonsHelp": {
 			"summary": "Add-ons documentation",
 			"author": "Rui Fontes <rui.fontes@tiflotecnia.com>, Zougane, Remy and Abdel",
-			"addonKey": "addonshelp",
+			"addonKey": "addonsHelp",
 			"minimumNVDAVersion": [
 				2017,
 				3,
@@ -426,7 +426,7 @@
 		"easyTableNavigator": {
 			"summary": "Easy Table Navigator",
 			"author": "Joseph Lee <joseph.lee22590@gmail.com>",
-			"addonKey": "etn",
+			"addonKey": "easyTableNavigator",
 			"minimumNVDAVersion": [
 				2019,
 				3,
@@ -501,7 +501,7 @@
 		"evtTracker": {
 			"summary": "Event Tracker",
 			"author": "Joseph Lee <joseph.lee22590@gmail.com>",
-			"addonKey": "evttracker",
+			"addonKey": "evtTracker",
 			"minimumNVDAVersion": [
 				2022,
 				4,
@@ -666,7 +666,7 @@
 		"MathCAT": {
 			"summary": "MathCAT: speech and braille from MathML",
 			"author": "Neil Soiffer <soiffer@alum.mit.edu>",
-			"addonKey": "mathcat",
+			"addonKey": "MathCAT",
 			"minimumNVDAVersion": [
 				2018,
 				1,
@@ -711,7 +711,7 @@
 		"nvdaDevTestToolbox": {
 			"summary": "NVDA Dev & Test Toolbox",
 			"author": "Cyrille Bougot <cyrille.bougot2@laposte.net>",
-			"addonKey": "ndtt",
+			"addonKey": "nvdaDevTestToolbox",
 			"minimumNVDAVersion": [
 				2019,
 				2,
@@ -846,7 +846,7 @@
 		"officeDesk": {
 			"summary": "Office Desk",
 			"author": "Joseph Lee <joseph.lee22590@gmail.com> and others",
-			"addonKey": "officedesk",
+			"addonKey": "officeDesk",
 			"minimumNVDAVersion": [
 				2022,
 				4,
@@ -861,7 +861,7 @@
 		"outlookExtended": {
 			"summary": "Outlook Extended",
 			"author": "Cyrille Bougot <cyrille.bougot2@laposte.net>, Ralf Kefferpuetz <ralf.kefferpuetz@elra-consulting.de>",
-			"addonKey": "outlookextended",
+			"addonKey": "outlookExtended",
 			"minimumNVDAVersion": [
 				2018,
 				3,
@@ -936,7 +936,7 @@
 		"quickDictionary": {
 			"summary": "Quick Dictionary",
 			"author": "Oleksandr Gryshchenko <grisov.nvaccess@mailnull.com>",
-			"addonKey": "quickdictionary",
+			"addonKey": "quickDictionary",
 			"minimumNVDAVersion": [
 				2019,
 				3,
@@ -1101,7 +1101,7 @@
 		"searchWith": {
 			"summary": "Search With",
 			"author": "ibrahim hamadeh <ibra.hamadeh@hotmail.com>",
-			"addonKey": "searchwith",
+			"addonKey": "searchWith",
 			"minimumNVDAVersion": [
 				2019,
 				3,
@@ -1116,7 +1116,7 @@
 		"SentenceNav": {
 			"summary": "SentenceNav",
 			"author": "Tony Malykh <anton.malykh@gmail.com>",
-			"addonKey": "sentencenav",
+			"addonKey": "SentenceNav",
 			"minimumNVDAVersion": [
 				2019,
 				2,
@@ -1301,7 +1301,7 @@
 		"timezone": {
 			"summary": "Time Zoner",
 			"author": "Munawar Bijani",
-			"addonKey": "tz",
+			"addonKey": "timezone",
 			"minimumNVDAVersion": [
 				2021,
 				1,
@@ -1331,7 +1331,7 @@
 		"tonysEnhancements": {
 			"summary": "Tony's enhancements",
 			"author": "Tony Malykh <anton.malykh@gmail.com>",
-			"addonKey": "tony",
+			"addonKey": "tonysEnhancements",
 			"minimumNVDAVersion": [
 				2019,
 				3,
@@ -1436,7 +1436,7 @@
 		"VLC": {
 			"summary": "VLC Media Player",
 			"author": "Javi Dominguez <fjavids@gmail.com>",
-			"addonKey": "vlc",
+			"addonKey": "VLC",
 			"minimumNVDAVersion": [
 				2018,
 				1,
@@ -1478,10 +1478,10 @@
 				0
 			]
 		},
-		"Weather Plus": {
+		"Weather_Plus": {
 			"summary": "Weather Plus",
 			"author": "Adriano Barbieri <adrianobarb@yahoo.it>.",
-			"addonKey": "wetp",
+			"addonKey": "Weather_Plus",
 			"minimumNVDAVersion": [
 				2018,
 				3,
@@ -1496,7 +1496,7 @@
 		"winMag": {
 			"summary": "Windows Magnifier",
 			"author": "Cyrille Bougot <cyrille.bougot2@laposte.net>",
-			"addonKey": "winmag",
+			"addonKey": "winMag",
 			"minimumNVDAVersion": [
 				2018,
 				3,
