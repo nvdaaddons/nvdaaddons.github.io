@@ -1,5 +1,7 @@
 # NVDA Community Add-ons metadata
 
+IMPORTANT: community add-ons metadata is replaced by NV Access add-on store. Information about the metadata is kept for archival purposes.
+
 The NVDA Add-ons organization website hosts community add-ons metadata in JSON (JavaScript Object Notation) format. The purpose of the metadata is to help people and tools obtain information on add-ons such as summary, author, and NVDA compatibility information.
 
 ## Add-ons metadata contents
@@ -16,7 +18,6 @@ Each dictionary is composed of add-on metadata with add-on identifiers as keys (
 * Add-on key (string): a shorthand used as part of the download link for the add-on from community add-ons website, intended for use by tools such as Add-on Updater.
 * Legacy reason (string, legacy add-ons only): a reason specifying why an add-on was marked as legacy.
 * Minimum and last tested NVDA versions (tuple of three integers): minimum and last tested NVDA versions the add-on is compatible with.
-* Minimum Windows version (string): the oldest Windows release the add-on is compatible with.
 
 ## Updating add-ons metadata
 
