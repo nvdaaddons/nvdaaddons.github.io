@@ -63,21 +63,6 @@
 				0
 			]
 		},
-		"audioChart": {
-			"summary": "AudioChart",
-			"author": "Tony Malykh <anton.malykh@gmail.com>",
-			"addonKey": "audiochart",
-			"minimumNVDAVersion": [
-				2019,
-				2,
-				0
-			],
-			"lastTestedNVDAVersion": [
-				2021,
-				1,
-				0
-			]
-		},
 		"beepKeyboard": {
 			"summary": "Beep keyboard",
 			"author": "David CM <dhf360@gmail.com>",
@@ -798,21 +783,6 @@
 				1
 			]
 		},
-		"objLocTones": {
-			"summary": "Object Location Tones",
-			"author": "Joseph Lee <joseph.lee22590@gmail.com>",
-			"addonKey": "objLocTones",
-			"minimumNVDAVersion": [
-				2022,
-				4,
-				0
-			],
-			"lastTestedNVDAVersion": [
-				2023,
-				1,
-				0
-			]
-		},
 		"objPad": {
 			"summary": "ObjPad",
 			"author": "Joseph Lee <joseph.lee22590@gmail.com>",
@@ -839,21 +809,6 @@
 			],
 			"lastTestedNVDAVersion": [
 				2021,
-				1,
-				0
-			]
-		},
-		"officeDesk": {
-			"summary": "Office Desk",
-			"author": "Joseph Lee <joseph.lee22590@gmail.com> and others",
-			"addonKey": "officeDesk",
-			"minimumNVDAVersion": [
-				2022,
-				4,
-				0
-			],
-			"lastTestedNVDAVersion": [
-				2023,
 				1,
 				0
 			]
@@ -1585,6 +1540,22 @@
 		}
 	},
 	"legacy": {
+		"audioChart": {
+			"summary": "AudioChart",
+			"author": "Tony Malykh <anton.malykh@gmail.com>",
+			"legacyReason": "Declared by author (no longer maintained)",
+			"addonKey": "audiochart",
+			"minimumNVDAVersion": [
+				2019,
+				2,
+				0
+			],
+			"lastTestedNVDAVersion": [
+				2021,
+				1,
+				0
+			]
+		},
 		"bitChe": {
 			"summary": "Bit Che",
 			"author": "Alberto Zanella <lapostadialberto@gmail.com>, Alberto Buffolino <a.buffolino@gmail.com>, other contributors",
@@ -1614,6 +1585,38 @@
 			"lastTestedNVDAVersion": [
 				2019,
 				2,
+				0
+			]
+		},
+		"objLocTones": {
+			"summary": "Object Location Tones",
+			"author": "Joseph Lee <joseph.lee22590@gmail.com>",
+			"legacyReason": "Declared by author (no longer maintained)",
+			"addonKey": "objLocTones",
+			"minimumNVDAVersion": [
+				2022,
+				4,
+				0
+			],
+			"lastTestedNVDAVersion": [
+				2023,
+				1,
+				0
+			]
+		},
+		"officeDesk": {
+			"summary": "Office Desk",
+			"author": "Joseph Lee <joseph.lee22590@gmail.com> and others",
+			"legacyReason": "Declared by author (no longer maintained)",
+			"addonKey": "officeDesk",
+			"minimumNVDAVersion": [
+				2022,
+				4,
+				0
+			],
+			"lastTestedNVDAVersion": [
+				2023,
+				1,
 				0
 			]
 		},
