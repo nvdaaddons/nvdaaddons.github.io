@@ -246,7 +246,7 @@
 		"columnsReview": {
 			"summary": "Columns Review",
 			"author": "Alberto Buffolino <a.buffolino@gmail.com>, Łukasz Golonka <lukasz.golonka@mailbox.org>, other contributors",
-			"addonKey": "cr",
+			"addonKey": "columnsReview",
 			"minimumNVDAVersion": [
 				2017,
 				3,
@@ -726,7 +726,7 @@
 		"noBeepsSpeechMode": {
 			"summary": "NoBeepsSpeechMode",
 			"author": "Alberto Buffolino <a.buffolino@gmail.com>",
-			"addonKey": "nb",
+			"addonKey": "noBeepsSpeechMode",
 			"minimumNVDAVersion": [
 				2021,
 				1,
@@ -1301,7 +1301,7 @@
 		"toolbarsExplorer": {
 			"summary": "ToolbarsExplorer",
 			"author": "Alberto Buffolino <a.buffolino@gmail.com>",
-			"addonKey": "tbx",
+			"addonKey": "toolbarsExplorer",
 			"minimumNVDAVersion": [
 				2017,
 				3,
